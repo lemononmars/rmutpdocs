@@ -24,10 +24,10 @@
    :maxdepth: 2
    :caption: สารบัญ
 
-   agreement
    1teaching
    2research
    3service
    4culture
    5etc
-   help
+   glossary
+   faq

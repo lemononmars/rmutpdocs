@@ -1,0 +1,30 @@
+\select@language {english}
+\select@language {english}
+\contentsline {chapter}{\numberline {1}วิธีใช้เวบไซท์}{3}{chapter.1}
+\contentsline {section}{\numberline {1.1}ที่มา}{3}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}1. ภาระงานสอน}{3}{subsection.1.1.1}
+\contentsline {subsubsection}{1.1 งานสอนนักศึกษาในระดับปริญญาตรี}{3}{subsubsection*.3}
+\contentsline {paragraph}{1.1.1 การสอนรายวิชาบรรยาย 1 หน่วยกิต}{3}{paragraph*.4}
+\contentsline {subsubsection}{1.2 งานสอนนักศึกษาในระดับบัณฑิตศึกษา}{4}{subsubsection*.7}
+\contentsline {subsubsection}{1.3 งานสอนในระดับต่ำกว่าปริญญาตรี}{4}{subsubsection*.8}
+\contentsline {subsubsection}{1.4 งานด้านโครงงาน}{4}{subsubsection*.9}
+\contentsline {subsubsection}{1.5 งานด้านวิทยานิพนธ์และการค้นคว้าอิสระ}{4}{subsubsection*.10}
+\contentsline {subsubsection}{1.6 การสอนในหลักสูตรอื่นนอกจาก 1.1 \sphinxhyphen {} 1.5}{5}{subsubsection*.11}
+\contentsline {subsection}{\numberline {1.1.2}2. ภาระงานวิจัยและบริการวิชาการ}{5}{subsection.1.1.2}
+\contentsline {subsubsection}{2.1 การร่วมทำวิจัย}{5}{subsubsection*.12}
+\contentsline {paragraph}{2.1.1 มีส่วนร่วมในโครงการวิจัยตั้งแต่ร้อยละ 60 ขึ้นไป}{5}{paragraph*.13}
+\contentsline {paragraph}{2.2 งานบริการวิชาการ}{5}{paragraph*.14}
+\contentsline {subsection}{\numberline {1.1.3}2. ภาระงานวิจัยและบริการวิชาการ}{5}{subsection.1.1.3}
+\contentsline {subsubsection}{2.1 การร่วมทำวิจัย}{5}{subsubsection*.15}
+\contentsline {paragraph}{2.1.1 มีส่วนร่วมในโครงการวิจัยตั้งแต่ร้อยละ 60 ขึ้นไป}{5}{paragraph*.16}
+\contentsline {paragraph}{2.2 งานบริการวิชาการ}{5}{paragraph*.17}
+\contentsline {subsection}{\numberline {1.1.4}2. ภาระงานวิจัยและบริการวิชาการ}{5}{subsection.1.1.4}
+\contentsline {subsubsection}{2.1 การร่วมทำวิจัย}{5}{subsubsection*.18}
+\contentsline {paragraph}{2.1.1 มีส่วนร่วมในโครงการวิจัยตั้งแต่ร้อยละ 60 ขึ้นไป}{5}{paragraph*.19}
+\contentsline {paragraph}{2.2 งานบริการวิชาการ}{6}{paragraph*.20}
+\contentsline {subsection}{\numberline {1.1.5}2. ภาระงานวิจัยและบริการวิชาการ}{6}{subsection.1.1.5}
+\contentsline {subsubsection}{2.1 การร่วมทำวิจัย}{6}{subsubsection*.21}
+\contentsline {paragraph}{2.1.1 มีส่วนร่วมในโครงการวิจัยตั้งแต่ร้อยละ 60 ขึ้นไป}{6}{paragraph*.22}
+\contentsline {paragraph}{2.2 งานบริการวิชาการ}{6}{paragraph*.23}
+\contentsline {subsection}{\numberline {1.1.6}อภิทานศัพท์}{6}{subsection.1.1.6}
+\contentsline {subsection}{\numberline {1.1.7}คำถามที่พบบ่อย}{6}{subsection.1.1.7}

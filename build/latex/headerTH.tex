@@ -1,0 +1,25 @@
+\XeTeXlinebreaklocale ”th”
+\XeTeXlinebreakskip = 0pt plus 0pt
+
+\usepackage{fontspec}
+\defaultfontfeatures{Mapping=tex-text}
+\setmainfont{TeX Gyre Termes} % Free Times
+\setsansfont{TeX Gyre Heros} % Free Helvetica
+\setmonofont{TeX Gyre Cursor} % Free Courier
+
+\newfontfamily{\thaifont}[Scale=MatchUppercase,Mapping=textext]{TH Sarabun New}
+\newenvironment{thailang}{\thaifont}{}
+\usepackage[Latin,Thai]{ucharclasses}
+
+\setTransitionTo{Thai}{\begin{thailang}}
+\setTransitionFrom{Thai}{\end{thailang}}
+
+\usepackage{setspace}
+% comment this out if error occurs
+% \onehalfspacing
+
+\usepackage{polyglossia}
+\setdefaultlanguage{english}
+\setotherlanguage{thai}
+
+\AtBeginDocument\captionsthai % Force the caption to Thai

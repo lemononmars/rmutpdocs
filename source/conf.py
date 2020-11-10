@@ -60,6 +60,8 @@ html_static_path = ['_static']
 
 latex_engine = 'xelatex'
 latex_elements = {
+    'papersize': 'a4paper',
+    'pointsize': '12pt',
     'fontpkg': r'''
 \setmainfont{TeX Gyre Termes}
 \setsansfont{TeX Gyre Heros}
@@ -80,15 +82,14 @@ latex_elements = {
 \setTransitionFrom{Thai}{\end{thailang}}
 
 \usepackage{setspace}
-\onehalfspacing
 
 \usepackage{polyglossia}
 \setdefaultlanguage{english}
 \setotherlanguage{thai}
 
-\AtBeginDocument\captionsthai
+\AtBeginDocument\captionsthai % Force the caption to Thai
     ''',
     'fncychap': r'\usepackage[Bjornstrup]{fncychap}',
-    'printindex': r'\footnotesize\raggedright\printindex',
 }
 latex_show_urls = 'footnote'
+
