@@ -19,7 +19,7 @@
 
 project = 'ภาระงานบุคลากรสายวิชาการ'
 copyright = '2020, Sakulbuth Ekvittayaniphon'
-author = 'Sakulbuth Ekvittayaniphon'
+author = 'คณะวิทยาศาสตร์และเทคโนโลยี มหาวิทยาลัยราชมงคลพระนคร'
 
 
 # -- General configuration ---------------------------------------------------

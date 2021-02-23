@@ -1,30 +1,76 @@
 \select@language {english}
 \select@language {english}
-\contentsline {chapter}{\numberline {1}วิธีใช้เวบไซท์}{3}{chapter.1}
-\contentsline {section}{\numberline {1.1}ที่มา}{3}{section.1.1}
-\contentsline {subsection}{\numberline {1.1.1}1. ภาระงานสอน}{3}{subsection.1.1.1}
-\contentsline {subsubsection}{1.1 งานสอนนักศึกษาในระดับปริญญาตรี}{3}{subsubsection*.3}
-\contentsline {paragraph}{1.1.1 การสอนรายวิชาบรรยาย 1 หน่วยกิต}{3}{paragraph*.4}
-\contentsline {subsubsection}{1.2 งานสอนนักศึกษาในระดับบัณฑิตศึกษา}{4}{subsubsection*.7}
-\contentsline {subsubsection}{1.3 งานสอนในระดับต่ำกว่าปริญญาตรี}{4}{subsubsection*.8}
-\contentsline {subsubsection}{1.4 งานด้านโครงงาน}{4}{subsubsection*.9}
-\contentsline {subsubsection}{1.5 งานด้านวิทยานิพนธ์และการค้นคว้าอิสระ}{4}{subsubsection*.10}
-\contentsline {subsubsection}{1.6 การสอนในหลักสูตรอื่นนอกจาก 1.1 \sphinxhyphen {} 1.5}{5}{subsubsection*.11}
-\contentsline {subsection}{\numberline {1.1.2}2. ภาระงานวิจัยและบริการวิชาการ}{5}{subsection.1.1.2}
-\contentsline {subsubsection}{2.1 การร่วมทำวิจัย}{5}{subsubsection*.12}
-\contentsline {paragraph}{2.1.1 มีส่วนร่วมในโครงการวิจัยตั้งแต่ร้อยละ 60 ขึ้นไป}{5}{paragraph*.13}
-\contentsline {paragraph}{2.2 งานบริการวิชาการ}{5}{paragraph*.14}
-\contentsline {subsection}{\numberline {1.1.3}2. ภาระงานวิจัยและบริการวิชาการ}{5}{subsection.1.1.3}
-\contentsline {subsubsection}{2.1 การร่วมทำวิจัย}{5}{subsubsection*.15}
-\contentsline {paragraph}{2.1.1 มีส่วนร่วมในโครงการวิจัยตั้งแต่ร้อยละ 60 ขึ้นไป}{5}{paragraph*.16}
-\contentsline {paragraph}{2.2 งานบริการวิชาการ}{5}{paragraph*.17}
-\contentsline {subsection}{\numberline {1.1.4}2. ภาระงานวิจัยและบริการวิชาการ}{5}{subsection.1.1.4}
-\contentsline {subsubsection}{2.1 การร่วมทำวิจัย}{5}{subsubsection*.18}
-\contentsline {paragraph}{2.1.1 มีส่วนร่วมในโครงการวิจัยตั้งแต่ร้อยละ 60 ขึ้นไป}{5}{paragraph*.19}
-\contentsline {paragraph}{2.2 งานบริการวิชาการ}{6}{paragraph*.20}
-\contentsline {subsection}{\numberline {1.1.5}2. ภาระงานวิจัยและบริการวิชาการ}{6}{subsection.1.1.5}
-\contentsline {subsubsection}{2.1 การร่วมทำวิจัย}{6}{subsubsection*.21}
-\contentsline {paragraph}{2.1.1 มีส่วนร่วมในโครงการวิจัยตั้งแต่ร้อยละ 60 ขึ้นไป}{6}{paragraph*.22}
-\contentsline {paragraph}{2.2 งานบริการวิชาการ}{6}{paragraph*.23}
-\contentsline {subsection}{\numberline {1.1.6}อภิทานศัพท์}{6}{subsection.1.1.6}
-\contentsline {subsection}{\numberline {1.1.7}คำถามที่พบบ่อย}{6}{subsection.1.1.7}
+\contentsline {chapter}{\numberline {1}การนำส่งหลักฐานการประเมินผลสัมฤทธิ์ของงานของพนักงานมหาวิทยาลัย (องค์ประกอบที่ ๑) ตำแหน่งวิชาการ}{3}{chapter.1}
+\contentsline {section}{\numberline {1.1}1. งานสอน}{4}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}ระดับความสำเร็จในการจัดทำ}{4}{subsection.1.1.1}
+\contentsline {subsubsection}{มคอ. 3/4/5/6}{4}{subsubsection*.3}
+\contentsline {subsubsection}{สื่อการสอน}{4}{subsubsection*.4}
+\contentsline {subsubsection}{นิยามของสื่อการสอน}{5}{subsubsection*.5}
+\contentsline {section}{\numberline {1.2}2. งานวิจัยและงานวิชาการอื่น}{5}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}ระดับความสำเร็จในการจัดทำงานวิจัย}{5}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}ระดับความสำเร็จในการจัดทำงานวิชาการอื่น}{5}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}หลักฐาน}{6}{subsection.1.2.3}
+\contentsline {section}{\numberline {1.3}3. ภาระงานวิจัยและวิชาการอื่น}{6}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}ระดับความสำเร็จในการจัดทำ}{6}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}หลักฐาน}{6}{subsection.1.3.2}
+\contentsline {section}{\numberline {1.4}4. งานทำนุบำรุงศิลปวัฒนธรรม}{7}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}ระดับความสำเร็จในการจัดทำ}{7}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}หลักฐาน}{7}{subsection.1.4.2}
+\contentsline {section}{\numberline {1.5}5. งานอื่น ๆ}{8}{section.1.5}
+\contentsline {subsection}{\numberline {1.5.1}ระดับความสำเร็จในการจัดทำ}{8}{subsection.1.5.1}
+\contentsline {subsection}{\numberline {1.5.2}หลักฐาน}{8}{subsection.1.5.2}
+\contentsline {chapter}{\numberline {2}1. ภาระงานสอน}{9}{chapter.2}
+\contentsline {section}{\numberline {2.1}ภาระงานสอน สำหรับผู้มีตำแหน่ง}{9}{section.2.1}
+\contentsline {section}{\numberline {2.2}คำอธิบายเพิ่มเติม}{9}{section.2.2}
+\contentsline {section}{\numberline {2.3}1.1 งานสอนนักศึกษาในระดับปริญญาตรี}{10}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}1.1.1 การสอนรายวิชาบรรยาย 1 หน่วยกิต}{10}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}1.1.2 การสอนรายวิชาปฏิบัติการ 1 หน่วยกิต}{10}{subsection.2.3.2}
+\contentsline {section}{\numberline {2.4}1.2 งานสอนนักศึกษาในระดับบัณฑิตศึกษา}{10}{section.2.4}
+\contentsline {section}{\numberline {2.5}1.3 งานสอนในระดับต่ำกว่าปริญญาตรี}{10}{section.2.5}
+\contentsline {section}{\numberline {2.6}1.4 งานด้านโครงงาน}{10}{section.2.6}
+\contentsline {section}{\numberline {2.7}1.5 งานด้านวิทยานิพนธ์และการค้นคว้าอิสระ}{10}{section.2.7}
+\contentsline {section}{\numberline {2.8}1.6 การสอนในหลักสูตรอื่นนอกจาก 1.1 \sphinxhyphen {} 1.5}{10}{section.2.8}
+\contentsline {chapter}{\numberline {3}2. ภาระงานวิจัยและบริการวิชาการ}{11}{chapter.3}
+\contentsline {section}{\numberline {3.1}เงื่อนไขการได้รับการประเมิน}{11}{section.3.1}
+\contentsline {section}{\numberline {3.2}สิ่งจำเป็นในหลักฐานการประเมิน}{11}{section.3.2}
+\contentsline {section}{\numberline {3.3}2.1 การร่วมทำวิจัย}{11}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}2.1.1 มีส่วนร่วมในโครงการวิจัยตั้งแต่ร้อยละ 60 ขึ้นไป}{12}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}2.1.2 มีส่วนร่วมในโครงการวิจัยตั้งแต่ร้อยละ 40 \sphinxhyphen {} 59}{12}{subsection.3.3.2}
+\contentsline {section}{\numberline {3.4}2.2 ผู้อำนวยแผนวิจัย}{12}{section.3.4}
+\contentsline {section}{\numberline {3.5}2.3 การตีพิมพ์เผยแพร่บทความวิจัย}{12}{section.3.5}
+\contentsline {subsection}{\numberline {3.5.1}2.3.1 การเข้าร่วมประชุมหรือสัมมนาทางวิชาการ ที่ผ่านการอนุมัติหรือเห็นชอบจากหน่วยงาน}{12}{subsection.3.5.1}
+\contentsline {section}{\numberline {3.6}2.4 การเผยแพร่ผลงานสร้างสรรค์}{12}{section.3.6}
+\contentsline {section}{\numberline {3.7}2.5 การนำผลงานวิจัยไปใช้ประโยชน์}{12}{section.3.7}
+\contentsline {chapter}{\numberline {4}3. ภาระงานวิจัยและบริการวิชาการ}{13}{chapter.4}
+\contentsline {section}{\numberline {4.1}การพิจารณาสัดส่วน}{13}{section.4.1}
+\contentsline {section}{\numberline {4.2}เงื่อนไขการได้รับการประเมิน}{14}{section.4.2}
+\contentsline {section}{\numberline {4.3}สิ่งจำเป็นในหลักฐานการประเมิน}{14}{section.4.3}
+\contentsline {section}{\numberline {4.4}3.1 การบริการวิชาการแก่สังคม}{14}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}3.1.1 ปฏิบัติโครงการบริการวิชาการแก่สังคมตามแผน}{14}{subsection.4.4.1}
+\contentsline {subsubsection}{3.1.1.1 ผู้ร่วมกิจกรรมในโครงการ}{14}{subsubsection*.6}
+\contentsline {subsubsection}{3.1.1.2 วิทยากร}{15}{subsubsection*.7}
+\contentsline {section}{\numberline {4.5}3.2 การบริการวิชาการเชิงพาณิชย์ ที่มีการเซ็นสัญญาที่หน่วยงาน หรือมหาวิทยาลัย หรือมีเอกสารยืนยันเป็นลายลักษณ์อักษร}{15}{section.4.5}
+\contentsline {chapter}{\numberline {5}4. ภาระงานบำรุงศิลปวัฒนธรรม}{17}{chapter.5}
+\contentsline {section}{\numberline {5.1}เงื่อนไขการได้รับการประเมิน}{17}{section.5.1}
+\contentsline {section}{\numberline {5.2}สิ่งจำเป็นในหลักฐานการประเมิน}{18}{section.5.2}
+\contentsline {section}{\numberline {5.3}4.1 การเข้าร่วมในกิจกรรม/โครงการทำนุบำรุงศิลปวัฒนธรรมของมหาวิทยาลัย หรือหน่วยงานภายนอก}{18}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}ประเภทงาน}{18}{subsection.5.3.1}
+\contentsline {section}{\numberline {5.4}4.2 การเป็นผู้รับผิดชอบในกิจกรรม/โครงการทำนุบำรุงศิลปวัฒนธรรมภายในประเทศ}{18}{section.5.4}
+\contentsline {section}{\numberline {5.5}4.3 การเข้าร่วมในกิจกรรม/โครงการทำนุบำรุงศิลปวัฒนธรรมภายนอกประเทศ}{18}{section.5.5}
+\contentsline {section}{\numberline {5.6}4.4 การเป็นผู้รับผิดชอบในกิจกรรม/โครงการทำนุบำรุงศิลปวัฒนธรรมภายนอกประเทศ}{19}{section.5.6}
+\contentsline {section}{\numberline {5.7}4.5 การเข้าร่วมในกิจกรรม/โครงการทำนุบำรุงศิลปวัฒนธรรมของคณะวิทยาศาสตร์และเทคโนโลยี}{19}{section.5.7}
+\contentsline {chapter}{\numberline {6}5. ภาระงานอื่น ๆ}{21}{chapter.6}
+\contentsline {section}{\numberline {6.1}เงื่อนไขการได้รับการประเมิน}{21}{section.6.1}
+\contentsline {section}{\numberline {6.2}สิ่งจำเป็นในหลักฐานการประเมิน}{21}{section.6.2}
+\contentsline {section}{\numberline {6.3}5.1 งานบริการจัดการสอนมากกว่า 1 ศูนย์การศึกษา และ/หรือ นอกศูนย์ที่ตั้งของคณะ}{21}{section.6.3}
+\contentsline {section}{\numberline {6.4}5.2 งานพัฒนานักศึกษา}{22}{section.6.4}
+\contentsline {section}{\numberline {6.5}5.3 งานพัฒนาองค์กร}{22}{section.6.5}
+\contentsline {section}{\numberline {6.6}5.4 งานพัฒนาตนเอง}{22}{section.6.6}
+\contentsline {section}{\numberline {6.7}5.5 งานจิตอาสา}{22}{section.6.7}
+\contentsline {chapter}{\numberline {7}การนำส่งหลักฐานการประเมิน (สายวิชาการ) องค์ 2}{23}{chapter.7}
+\contentsline {section}{\numberline {7.1}วิธีการจัดเตรียมเอกสาร}{23}{section.7.1}
+\contentsline {subsection}{\numberline {7.1.1}ฉบับเอกสาร}{23}{subsection.7.1.1}
+\contentsline {subsection}{\numberline {7.1.2}ฉบับไฟล์}{23}{subsection.7.1.2}
+\contentsline {subsubsection}{ประเภทไฟล์}{23}{subsubsection*.8}
+\contentsline {chapter}{\numberline {8}อภิทานศัพท์}{25}{chapter.8}
+\contentsline {chapter}{\numberline {9}คำถามที่พบบ่อย}{27}{chapter.9}
