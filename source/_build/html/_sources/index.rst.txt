@@ -10,24 +10,22 @@
 
 วิธีใช้เวบไซท์
 ====================
-* กดที่แถบด้านขวาเพื่อเลือกหัวข้อ
+* กดที่แถบด้านซ้ายเพื่อเลือกหัวข้อ
 * ข้อความที่อยู่ในกล่องสีเทาคือตัวอย่าง
 * ข้อความที่ **เน้น** คือข้อความสำคัญ
 
-.. warning:: ระวังนะ!
-
-ที่มา
-^^^^^^^
-ติดต่อพวกเรา
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: สารบัญ
 
+   submission_part1
    1teaching
    2research
    3service
    4culture
    5etc
+   submission_part2
    glossary
    faq
+   official_documents
