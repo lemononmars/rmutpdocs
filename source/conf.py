@@ -19,7 +19,7 @@
 
 project = 'ภาระงานบุคลากรสายวิชาการ'
 copyright = '2020, Sakulbuth Ekvittayaniphon'
-author = 'คณะวิทยาศาสตร์และเทคโนโลยี มหาวิทยาลัยราชมงคลพระนคร'
+author = 'คณะวิทยาศาสตร์และเทคโนโลยี \\ มหาวิทยาลัยราชมงคลพระนคร'
 
 
 # -- General configuration ---------------------------------------------------
@@ -69,6 +69,30 @@ latex_elements = {
 \setmonofont{TeX Gyre Cursor}
     ''',
     'preamble': r'''
+
+\setcounter{tocdepth}{1}
+
+\usepackage{titlesec}
+\usepackage{tocloft}
+\renewcommand\numberline[1]{}
+
+\renewcommand{\chaptername}{}
+\renewcommand{\thechapter}{}
+
+\titleformat{\section}
+{\normalfont%
+\vspace{6pt}%
+\sffamily\bfseries\Large}
+{}
+{.5em}
+{}
+
+\titleformat{\subsection}
+{\normalfont}
+{}
+{8pt}
+{\Large\bfseries}
+
 \XeTeXlinebreaklocale ”th”
 \XeTeXlinebreakskip = 0pt plus 0pt
 
@@ -88,7 +112,7 @@ latex_elements = {
 \setdefaultlanguage{english}
 \setotherlanguage{thai}
 
-\AtBeginDocument\captionsthai % Force the caption to Thai
+\AtBeginDocument\captionsthai
     ''',
     'fncychap': r'\usepackage[Bjornstrup]{fncychap}',
 }

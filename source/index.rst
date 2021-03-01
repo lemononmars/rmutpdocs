@@ -3,6 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+.. note::
+   อัพเดทล่าสุด: 2 มีนาคม 2021
+.. warning::
+   เว็บไซต์นี้ ยังเป็นเพียงแบบร่างเท่านั้น ยังไม่สามารถใช้เพื่ออ้างอิงได้
+
+   เมื่อข้อมูลครบถ้วนแล้ว จะประกาศให้ทราบอีกครั้งหนึ่ง
 
 ภาระงานบุคลากรสายวิชาการ 
 ###############################
@@ -26,6 +32,7 @@
    3service
    4culture
    5etc
+   6academicposition
    glossary
    faq
    official_documents

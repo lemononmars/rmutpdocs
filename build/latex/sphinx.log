@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6840 64-bit) (preloaded format=xelatex 2018.11.7)  24 FEB 2021 02:53
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6840 64-bit) (preloaded format=xelatex 2018.11.7)  2 MAR 2021 00:12
 entering extended mode
 **./sphinx.tex
 (sphinx.tex
@@ -993,6 +993,52 @@ Package: hypcap 2016/05/16 v1.12 Adjusting the anchors of captions (HO)
 ) (sphinxmessages.sty
 Package: sphinxmessages 2019/01/04 v2.0 Localized LaTeX macros (Sphinx team)
 )
+("C:\Users\sakul_bp6myy0\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tocloft\to
+cloft.sty"
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 51.
+\cftparskip=\skip81
+\cftbeforetoctitleskip=\skip82
+\cftaftertoctitleskip=\skip83
+\cftbeforepartskip=\skip84
+\cftpartnumwidth=\skip85
+\cftpartindent=\skip86
+\cftbeforechapskip=\skip87
+\cftchapindent=\skip88
+\cftchapnumwidth=\skip89
+\cftbeforesecskip=\skip90
+\cftsecindent=\skip91
+\cftsecnumwidth=\skip92
+\cftbeforesubsecskip=\skip93
+\cftsubsecindent=\skip94
+\cftsubsecnumwidth=\skip95
+\cftbeforesubsubsecskip=\skip96
+\cftsubsubsecindent=\skip97
+\cftsubsubsecnumwidth=\skip98
+\cftbeforeparaskip=\skip99
+\cftparaindent=\skip100
+\cftparanumwidth=\skip101
+\cftbeforesubparaskip=\skip102
+\cftsubparaindent=\skip103
+\cftsubparanumwidth=\skip104
+\cftbeforeloftitleskip=\skip105
+\cftafterloftitleskip=\skip106
+\cftbeforefigskip=\skip107
+\cftfigindent=\skip108
+\cftfignumwidth=\skip109
+\c@lofdepth=\count299
+\c@lotdepth=\count300
+\cftbeforelottitleskip=\skip110
+\cftafterlottitleskip=\skip111
+\cftbeforetabskip=\skip112
+\cfttabindent=\skip113
+\cfttabnumwidth=\skip114
+
+
+Package tocloft Warning: \@starttoc has already been redefined; tocloft bailing
+ out. on input line 1156.
+
+)
 
 Package fontspec Info: TH Sarabun New scale = 1.390751262879231.
 
@@ -1056,7 +1102,7 @@ Package: setspace 2011/12/19 v6.7a set line spacing
 )
 
 Package polyglossia Warning: gloss-english.ldf is already loaded! on input line
- 64.
+ 88.
 
 
 ("C:\Users\sakul_bp6myy0\AppData\Local\Programs\MiKTeX 2.9\tex\latex\polyglossi
@@ -1071,99 +1117,101 @@ Writing index file sphinx.idx
 (sphinx.aux)
 \openout1 = `sphinx.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 77.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 77.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 101.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 101.
+
 
 ("C:\Users\sakul_bp6myy0\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1cm
 r.fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
 
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 (fontspec)             this).
 
 \symlegacymaths=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 77.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 77.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 77.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 77.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 77.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 77.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 77.
-LaTeX Font Info:    Redeclaring math accent \check on input line 77.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 77.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 77.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 77.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 77.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 77.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 77.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 77.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 77.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 77.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 77.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 77.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 77.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 77.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 77.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 77.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 77.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 101.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 101.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 101.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 101.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 101.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 101.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 101.
+LaTeX Font Info:    Redeclaring math accent \check on input line 101.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 101.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 101.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 101.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 101.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 101.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 101.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 101.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 101.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 101.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 101.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 101.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 101.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 101.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 101.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 101.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 101.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 77.
+(Font)              `operators' in the math version `normal' on input line 101.
+
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/TeXGyreTermes(0)/m/n on input line 7
-7.
+(Font)                  OT1/cmr/m/n --> TU/TeXGyreTermes(0)/m/n on input line 1
+01.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 77.
+(Font)              `operators' in the math version `bold' on input line 101.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> TU/TeXGyreTermes(0)/m/n on input line 
-77.
+101.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  TU/TeXGyreTermes(0)/m/n --> TU/TeXGyreTermes(0)/m/n on 
-input line 77.
+input line 101.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> TU/TeXGyreTermes(0)/m/it on input line
- 77.
+ 101.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> TU/TeXGyreTermes(0)/bx/n on input line
- 77.
+ 101.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/TeXGyreHeros(0)/m/n on input line 7
-7.
+(Font)                  OT1/cmss/m/n --> TU/TeXGyreHeros(0)/m/n on input line 1
+01.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
 (Font)                  OT1/cmtt/m/n --> TU/TeXGyreCursor(0)/m/n on input line 
-77.
+101.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/TeXGyreTermes(0)/m/n --> TU/TeXGyreTermes(0)/bx/n on
- input line 77.
+ input line 101.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> TU/TeXGyreTermes(0)/bx/it on input li
-ne 77.
+ne 101.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> TU/TeXGyreHeros(0)/bx/n on input line
- 77.
+ 101.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/TeXGyreCursor(0)/bx/n on input line
- 77.
+ 101.
 
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -1199,7 +1247,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box65
-Package hyperref Info: Link coloring ON on input line 77.
+Package hyperref Info: Link coloring ON on input line 101.
 
 ("C:\Users\sakul_bp6myy0\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\n
 ameref.sty"
@@ -1213,74 +1261,65 @@ Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 \gettitlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count299
+\c@section@level=\count301
 )
-LaTeX Info: Redefining \ref on input line 77.
-LaTeX Info: Redefining \pageref on input line 77.
-LaTeX Info: Redefining \nameref on input line 77.
+LaTeX Info: Redefining \ref on input line 101.
+LaTeX Info: Redefining \pageref on input line 101.
+LaTeX Info: Redefining \nameref on input line 101.
  (sphinx.out) (sphinx.out)
 \@outlinefile=\write5
 \openout5 = `sphinx.out'.
 
-Package hyperref Info: Option `pageanchor' set `false' on input line 80.
+Package hyperref Info: Option `pageanchor' set `false' on input line 104.
 LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/bx/n' will be
-(Font)              scaled to size 34.60179pt on input line 80.
+(Font)              scaled to size 34.60179pt on input line 104.
 Font mapping `textext.tec' for font `TH Sarabun New Bold' not found.
-LaTeX Font Info:    Try loading font information for U+msa on input line 80.
+LaTeX Font Info:    Try loading font information for U+msa on input line 104.
 
 ("C:\Users\sakul_bp6myy0\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\u
 msa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 80.
+LaTeX Font Info:    Try loading font information for U+msb on input line 104.
 
 ("C:\Users\sakul_bp6myy0\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\u
 msb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/bx/n' will be
-(Font)              scaled to size 28.8441pt on input line 80.
+(Font)              scaled to size 28.8441pt on input line 104.
 Font mapping `textext.tec' for font `TH Sarabun New Bold' not found.
-
-Overfull \hbox (51.54161pt too wide) in paragraph at lines 80--80
- [][]
- []
-
 LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/bx/n' will be
-(Font)              scaled to size 20.02675pt on input line 80.
+(Font)              scaled to size 20.02675pt on input line 104.
 Font mapping `textext.tec' for font `TH Sarabun New Bold' not found.
-[1
+ [1
 
 ] [2
 
 
-]
-LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/bx/n' will be
-(Font)              scaled to size 24.0321pt on input line 82.
-Font mapping `textext.tec' for font `TH Sarabun New Bold' not found.
- (sphinx.toc
+] (sphinx.toc
 LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/bx/n' will be
 (Font)              scaled to size 16.68896pt on input line 3.
 Font mapping `textext.tec' for font `TH Sarabun New Bold' not found.
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--3
-  [][][]\TU/THSarabunNew(0)/bx/n/12 การนำส่งหลักฐานการประเมินผลสัมฤทธิ์ของงานขอ
-งพนักงานมหาวิทยาลัย \TU/TeXGyreTermes(0)/bx/n/12 (\TU/THSarabunNew(0)/bx/n/12 อ
-งค์ประกอบที่ 
+LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/m/n' will be
+(Font)              scaled to size 16.68896pt on input line 4.
+Font mapping `textext.tec' for font `TH Sarabun New' not found.
+ [1]
+Underfull \hbox (badness 10000) in paragraph at lines 102--102
+ [][] [][]\TU/TeXGyreTermes(0)/m/n/12 4.5 \TU/THSarabunNew(0)/m/n/12 การเข้าร่ว
+มในกิจกรรม\TU/TeXGyreTermes(0)/m/n/12 /\TU/THSarabunNew(0)/m/n/12 โครงการทำนุบำ
+รุงศิลปวัฒนธรรมของคณะวิทยาศาสตร์และ 
  []
 
 )
 \tf@toc=\write6
 \openout6 = `sphinx.toc'.
 
- [1
-
-] [2
-
-]
-LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/m/n' will be
-(Font)              scaled to size 16.68896pt on input line 87.
-Font mapping `textext.tec' for font `TH Sarabun New' not found.
+ [2]
+Underfull \hbox (badness 10000) in paragraph at lines 123--124
+[]\TU/THSarabunNew(0)/m/n/12 เอกสารและเว็บไซต์นี้ จัดทำขึ้นเพื่อรวบรวมข้อมูลที่
+สำคัญทั้งหมดในการประเมินผลสัมฤทธิ์ของพนักงาน
+ []
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1288,32 +1327,68 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[1] [2
+[1
+
+] [2
 
 ]
-บทที่ 1.
-LaTeX Font Info:    Try loading font information for OT1+pzc on input line 90.
+บทที่ .
+LaTeX Font Info:    Try loading font information for OT1+pzc on input line 140.
+
 
 ("C:\Users\sakul_bp6myy0\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1
 pzc.fd"
 File: ot1pzc.fd 2001/06/04 font definitions for OT1/pzc.
 )
 LaTeX Font Info:    Font shape `OT1/pzc/m/n' in size <76> not available
-(Font)              Font shape `OT1/pzc/mb/it' tried instead on input line 90.
+(Font)              Font shape `OT1/pzc/mb/it' tried instead on input line 140.
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 90--90
+
+Overfull \hbox (10.0pt too wide) in paragraph at lines 140--140
 [][][][][][][][][]  
  []
 
+LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/bx/n' will be
+(Font)              scaled to size 24.0321pt on input line 140.
+Font mapping `textext.tec' for font `TH Sarabun New Bold' not found.
 
-Underfull \hbox (badness 10000) in paragraph at lines 115--116
-[]\TU/THSarabunNew(0)/m/n/12 ใช้หลักฐานที่เป็นรูปแบบไฟล์อิเล็กทรอนิกส์ \TU/TeXG
-yreTermes(0)/m/n/12 (PDF \TU/THSarabunNew(0)/m/n/12 หรือ ภาพถ่าย\TU/TeXGyreTerm
-es(0)/m/n/12 ) \TU/THSarabunNew(0)/m/n/12 ตามหัวข้อผลงานในประกาศ
+Underfull \hbox (badness 10000) in paragraph at lines 177--179
+\TU/THSarabunNew(0)/m/n/12 พระนครกำหนดไว้ให้หัวหน้าสาขาวิชา\TU/TeXGyreTermes(0)
+/m/n/12 /\TU/THSarabunNew(0)/m/n/12 หัวหน้าหมวดวิชาดำเนินการพิจารณาประเมินพฤติก
+รรมการปฏิบัติ
  []
 
 [3]
-Underfull \hbox (badness 7099) in paragraph at lines 142--144
+LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/m/it' will be
+(Font)              scaled to size 16.68896pt on input line 184.
+Font mapping `textext.tec' for font `TH Sarabun New Italic' not found.
+
+Underfull \hbox (badness 10000) in paragraph at lines 228--229
+[]\TU/THSarabunNew(0)/m/n/12 หลักฐานว่าได้ผ่านการประเมินโดยคณะผู้ทรงคุณวุฒิในสา
+ขาวิชานั้น ๆ หรือสาขาวิชาที่
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--255
+\TU/THSarabunNew(0)/m/n/12 ใช้หลักฐานที่เกี่ยวข้องกับงานบริการวิชาการที่แสดงถึง
+การมีส่วนร่วมในโครงการบริการวิชาการภายใน
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 295--296
+\TU/THSarabunNew(0)/m/n/12 ใช้หลักฐานที่เกี่ยวข้องกับงานอื่นๆหรืองานที่ได้รับมอ
+บหมายหรือได้รับอนุญาตที่นอกเหนือจาก งานสอน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 301--302
+[]\TU/THSarabunNew(0)/m/n/12 ไฟล์อิเล็กทรอนิกส์ \TU/TeXGyreTermes(0)/m/n/12 (PD
+F) \TU/THSarabunNew(0)/m/n/12 ที่แสดงถึงการเข้าร่วมงานอื่นๆหรืองานที่ได้รับมอบห
+มายหรือได้รับ
+ []
+
+
+Underfull \hbox (badness 7099) in paragraph at lines 318--320
 []\TU/THSarabunNew(0)/m/n/12 มี มคอ\TU/TeXGyreTermes(0)/m/n/12 .\TU/THSarabunNe
 w(0)/m/n/12 ๓ และ\TU/TeXGyreTermes(0)/m/n/12 /\TU/THSarabunNew(0)/m/n/12 หรือ ม
 คอ\TU/TeXGyreTermes(0)/m/n/12 .\TU/THSarabunNew(0)/m/n/12 ๔ ประจำรายวิชาสอนที่เ
@@ -1322,352 +1397,446 @@ w(0)/m/n/12 ๓ และ\TU/TeXGyreTermes(0)/m/n/12 /\TU/THSarabunNew(0)/m/n/12
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 148--150
+Underfull \hbox (badness 10000) in paragraph at lines 324--326
 []\TU/THSarabunNew(0)/m/n/12 เป็นไปตามระดับที่ ๒ และมีการสอบวัดผลการศึกษาตามระเ
 บียบของ มหาวิทยาลัย และ
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 165--167
-\TU/THSarabunNew(0)/m/n/12 พระนครกำหนดไว้ให้หัวหน้าสาขาวิชา\TU/TeXGyreTermes(0)
-/m/n/12 /\TU/THSarabunNew(0)/m/n/12 หัวหน้าหมวดวิชาดำเนินการพิจารณาประเมินพฤติก
-รรมการปฏิบัติ
- []
-
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 225--226
-[]\TU/THSarabunNew(0)/m/n/12 หลักฐานว่าได้ผ่านการประเมินโดยคณะผู้ทรงคุณวุฒิในสา
-ขาวิชานั้น ๆ หรือสาขาวิชาที่
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 275--277
-[]\TU/THSarabunNew(0)/m/n/12 มีชื่อ\TU/TeXGyreTermes(0)/m/n/12 /\TU/THSarabunNe
-w(0)/m/n/12 หัวข้อตำรา\TU/TeXGyreTermes(0)/m/n/12 /\TU/THSarabunNew(0)/m/n/12 ห
-นังสือ\TU/TeXGyreTermes(0)/m/n/12 /\TU/THSarabunNew(0)/m/n/12 บทความวิชาการ\TU/
-TeXGyreTermes(0)/m/n/12 /\TU/THSarabunNew(0)/m/n/12 บทความวิจัยหรือข้อมูลสำหรับ
-การเขียนผลงานดัง
- []
-
-
-Underfull \hbox (badness 7759) in paragraph at lines 278--280
-[]\TU/THSarabunNew(0)/m/n/12 เป็นไปตามระดับที่ ๑ และจัดทำเค้าโครงของตำรา\TU/TeX
-GyreTermes(0)/m/n/12 /\TU/THSarabunNew(0)/m/n/12 หนังสือ\TU/TeXGyreTermes(0)/m/
-n/12 /\TU/THSarabunNew(0)/m/n/12 บทความวิชาการ\TU/TeXGyreTermes(0)/m/n/12 /\TU/
-THSarabunNew(0)/m/n/12 บทความวิจัยที่
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 284--286
-[]\TU/THSarabunNew(0)/m/n/12 เป็นไปตามระดับที่ ๓ และจัดทำตำรา\TU/TeXGyreTermes(
-0)/m/n/12 /\TU/THSarabunNew(0)/m/n/12 หนังสือ\TU/TeXGyreTermes(0)/m/n/12 /\TU/T
-HSarabunNew(0)/m/n/12 บทความวิชาการ\TU/TeXGyreTermes(0)/m/n/12 /\TU/THSarabunNe
-w(0)/m/n/12 บทความวิจัยฉบับสมบูรณ์
- []
-
-[5]
-LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/m/it' will be
-(Font)              scaled to size 16.68896pt on input line 330.
-Font mapping `textext.tec' for font `TH Sarabun New Italic' not found.
-
-Underfull \hbox (badness 10000) in paragraph at lines 328--332
-[]\TU/THSarabunNew(0)/m/n/12 เป็นผู้มีส่วนร่วมในโครงการ หรือมีส่วนร่วมกับหน่วยง
-านภายนอก \TU/THSarabunNew(0)/m/it/12 หมายเหตุ \TU/THSarabunNew(0)/m/n/12 ผู้มีส
-่วนร่วมใน
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 357--358
-[]\TU/THSarabunNew(0)/m/n/12 ไฟล์อิเล็กทรอนิกส์ \TU/TeXGyreTermes(0)/m/n/12 (PD
-F) \TU/THSarabunNew(0)/m/n/12 ที่แสดงถึงการมีส่วนร่วมในโครงการบริการวิชาการภายใ
-นและ
- []
-
-[6]
-Underfull \hbox (badness 10000) in paragraph at lines 362--363
-[]\TU/THSarabunNew(0)/m/n/12 กรณีคณาจารย์ปฏิบัติหน้าที่หลายหน้าที่ในโครงการบริก
-ารวิชาการ ให้ส่งหลักฐานแต่ละหน้าที่ที่
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 376--378
+[5] [6]
+Underfull \hbox (badness 10000) in paragraph at lines 434--436
 []\TU/THSarabunNew(0)/m/n/12 เป็นผู้มีส่วนร่วมงานทำนุบำรุงศิลปวัฒนธรรมในกิจกรรม
 \TU/TeXGyreTermes(0)/m/n/12 /\TU/THSarabunNew(0)/m/n/12 โครงการของหน่วยงาน หรือ
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 379--381
-[]\TU/THSarabunNew(0)/m/n/12 เป็นผู้มีส่วนร่วมงานทำนุ
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 382--385
+Underfull \hbox (badness 10000) in paragraph at lines 437--439
 []\TU/THSarabunNew(0)/m/n/12 เป็นผู้มีส่วนร่วมงานทำนุบำรุงศิลปวัฒนธรรมในกิจกรรม
 \TU/TeXGyreTermes(0)/m/n/12 /\TU/THSarabunNew(0)/m/n/12 โครงการของหน่วยงาน หรือ
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 382--385
-\TU/THSarabunNew(0)/m/n/12 มหาวิทยาลัย จำนวน \TU/TeXGyreTermes(0)/m/n/12 3 \TU/
-THSarabunNew(0)/m/n/12 กิจกรรม \TU/THSarabunNew(0)/m/it/12 หรือ \TU/THSarabunNe
-w(0)/m/n/12 เป็นคณะกรรมการงานทำนุบำรุงศิลปวัฒนธรรมใน
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 386--389
+Underfull \hbox (badness 10000) in paragraph at lines 440--442
 []\TU/THSarabunNew(0)/m/n/12 เป็นผู้มีส่วนร่วมงานทำนุบำรุงศิลปวัฒนธรรมในกิจกรรม
 \TU/TeXGyreTermes(0)/m/n/12 /\TU/THSarabunNew(0)/m/n/12 โครงการของหน่วยงาน หรือ
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 386--389
-\TU/THSarabunNew(0)/m/n/12 มหาวิทยาลัย จำนวน \TU/TeXGyreTermes(0)/m/n/12 4 \TU/
-THSarabunNew(0)/m/n/12 กิจกรรม \TU/THSarabunNew(0)/m/it/12 หรือ \TU/THSarabunNe
-w(0)/m/n/12 เป็นคณะกรรมการงานทำนุบำรุงศิลปวัฒนธรรมใน
- []
-
-[7]
-Underfull \hbox (badness 7613) in paragraph at lines 419--421
-[]\TU/THSarabunNew(0)/m/n/12 เข้าร่วมกิจกรรม\TU/TeXGyreTermes(0)/m/n/12 /\TU/TH
-SarabunNew(0)/m/n/12 งานอื่น ๆ หรืองานที่ได้รับมอบหมายหรือได้รับอนุญาตจากหน่วยง
-าน หรือ
- []
-
-
-Underfull \hbox (badness 7613) in paragraph at lines 422--424
-[]\TU/THSarabunNew(0)/m/n/12 เข้าร่วมกิจกรรม\TU/TeXGyreTermes(0)/m/n/12 /\TU/TH
-SarabunNew(0)/m/n/12 งานอื่น ๆ หรืองานที่ได้รับมอบหมายหรือได้รับอนุญาตจากหน่วยง
-าน หรือ
- []
-
-
-Underfull \hbox (badness 7613) in paragraph at lines 425--427
-[]\TU/THSarabunNew(0)/m/n/12 เข้าร่วมกิจกรรม\TU/TeXGyreTermes(0)/m/n/12 /\TU/TH
-SarabunNew(0)/m/n/12 งานอื่น ๆ หรืองานที่ได้รับมอบหมายหรือได้รับอนุญาตจากหน่วยง
-าน หรือ
- []
-
-
-Underfull \hbox (badness 7613) in paragraph at lines 428--430
-[]\TU/THSarabunNew(0)/m/n/12 เข้าร่วมกิจกรรม\TU/TeXGyreTermes(0)/m/n/12 /\TU/TH
-SarabunNew(0)/m/n/12 งานอื่น ๆ หรืองานที่ได้รับมอบหมายหรือได้รับอนุญาตจากหน่วยง
-าน หรือ
- []
-
-
-Underfull \hbox (badness 7613) in paragraph at lines 431--433
-[]\TU/THSarabunNew(0)/m/n/12 เข้าร่วมกิจกรรม\TU/TeXGyreTermes(0)/m/n/12 /\TU/TH
-SarabunNew(0)/m/n/12 งานอื่น ๆ หรืองานที่ได้รับมอบหมายหรือได้รับอนุญาตจากหน่วยง
-าน หรือ
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 443--444
-\TU/THSarabunNew(0)/m/n/12 ใช้หลักฐานที่เกี่ยวข้องกับงานอื่นๆหรืองานที่ได้รับมอ
-บหมายหรือได้รับอนุญาตที่นอกเหนือจาก งานสอน
+[]\TU/THSarabunNew(0)/m/it/12 หรือ \TU/THSarabunNew(0)/m/n/12 เป็นคณะกรรมการงาน
+ทำนุบำรุงศิลปวัฒนธรรมในกิจกรรม\TU/TeXGyreTermes(0)/m/n/12 /\TU/THSarabunNew(0)/
+m/n/12 โครงการของหน่วยงาน หรือ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--447
+[]\TU/THSarabunNew(0)/m/n/12 เป็นผู้มีส่วนร่วมงานทำนุบำรุงศิลปวัฒนธรรมในกิจกรรม
+\TU/TeXGyreTermes(0)/m/n/12 /\TU/THSarabunNew(0)/m/n/12 โครงการของหน่วยงาน หรือ
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 448--449
+[]\TU/THSarabunNew(0)/m/it/12 หรือ \TU/THSarabunNew(0)/m/n/12 เป็นคณะกรรมการงาน
+ทำนุบำรุงศิลปวัฒนธรรมในกิจกรรม\TU/TeXGyreTermes(0)/m/n/12 /\TU/THSarabunNew(0)/
+m/n/12 โครงการของหน่วยงาน หรือ
+ []
+
+[7]
+Underfull \hbox (badness 7613) in paragraph at lines 458--460
+[]\TU/THSarabunNew(0)/m/n/12 เข้าร่วมกิจกรรม\TU/TeXGyreTermes(0)/m/n/12 /\TU/TH
+SarabunNew(0)/m/n/12 งานอื่น ๆ หรืองานที่ได้รับมอบหมายหรือได้รับอนุญาตจากหน่วยง
+าน หรือ
+ []
+
+
+Underfull \hbox (badness 7613) in paragraph at lines 461--463
+[]\TU/THSarabunNew(0)/m/n/12 เข้าร่วมกิจกรรม\TU/TeXGyreTermes(0)/m/n/12 /\TU/TH
+SarabunNew(0)/m/n/12 งานอื่น ๆ หรืองานที่ได้รับมอบหมายหรือได้รับอนุญาตจากหน่วยง
+าน หรือ
+ []
+
+
+Underfull \hbox (badness 7613) in paragraph at lines 464--466
+[]\TU/THSarabunNew(0)/m/n/12 เข้าร่วมกิจกรรม\TU/TeXGyreTermes(0)/m/n/12 /\TU/TH
+SarabunNew(0)/m/n/12 งานอื่น ๆ หรืองานที่ได้รับมอบหมายหรือได้รับอนุญาตจากหน่วยง
+าน หรือ
+ []
+
+
+Underfull \hbox (badness 7613) in paragraph at lines 467--469
+[]\TU/THSarabunNew(0)/m/n/12 เข้าร่วมกิจกรรม\TU/TeXGyreTermes(0)/m/n/12 /\TU/TH
+SarabunNew(0)/m/n/12 งานอื่น ๆ หรืองานที่ได้รับมอบหมายหรือได้รับอนุญาตจากหน่วยง
+าน หรือ
+ []
+
+
+Underfull \hbox (badness 7613) in paragraph at lines 470--472
+[]\TU/THSarabunNew(0)/m/n/12 เข้าร่วมกิจกรรม\TU/TeXGyreTermes(0)/m/n/12 /\TU/TH
+SarabunNew(0)/m/n/12 งานอื่น ๆ หรืองานที่ได้รับมอบหมายหรือได้รับอนุญาตจากหน่วยง
+าน หรือ
  []
 
 [8]
-บทที่ 2.
+บทที่ .
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 451--451
+Overfull \hbox (10.0pt too wide) in paragraph at lines 476--476
 [][][][][][][][][]  
- []
-
-
-Underfull \hbox (badness 5189) in paragraph at lines 496--497
-[]|\TU/THSarabunNew(0)/m/n/12 ภาคปกติ ภาคเรียน
- []
-
-
-Underfull \hbox (badness 5189) in paragraph at lines 501--502
-[]|\TU/THSarabunNew(0)/m/n/12 ภาคปกติ ภาคเรียน
  []
 
 [9
 
-] [10]
-บทที่ 3.
-
-Overfull \hbox (10.0pt too wide) in paragraph at lines 573--573
-[][][][][][][][][]  
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 597--598
-[]\TU/THSarabunNew(0)/bx/n/12 ต้อง \TU/THSarabunNew(0)/m/n/12 คำนวณและใส่คะแนนภ
-าระงาน ตามประกาศทางคณะวิทยาศาสตร์และเทคโนโลยี ถ้าไม่
- []
-
-[11
-
-] [12]
-บทที่ 4.
-
-Overfull \hbox (10.0pt too wide) in paragraph at lines 656--656
-[][][][][][][][][]  
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 665--666
-[]\TU/THSarabunNew(0)/m/n/12 ผู้รับผิดชอบในโครงการบริการวิชาการคิดคำนวณคะแนนภาร
-ะงานให้ผู้ปฏิบัติงานในโครงการทุกคน โดย
- []
-
-[13
+] [10
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 711--712
-[]\TU/THSarabunNew(0)/m/n/12 กรณีคณาจารย์ปฏิบัติหน้าที่หลายหน้าที่ในโครงการบริก
-ารวิชาการ ให้ส่งหลักฐานแต่ละหน้าที่ที่
+บทที่ .
+
+Overfull \hbox (10.0pt too wide) in paragraph at lines 479--479
+[][][][][][][][][]  
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 714--715
-[]\TU/THSarabunNew(0)/m/n/12 กรณีเป็นการบริการวิชาการเชิงพาณิชย์ให้แนบใบเสร็จหร
-ือหลักฐานการนำส่งเงินเข้ามหาวิทยาลัย
+Underfull \hbox (badness 10000) in paragraph at lines 520--521
+[]|\TU/THSarabunNew(0)/m/n/12 ประเภท
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 725--726
-[]\TU/THSarabunNew(0)/bx/n/12 ต้อง \TU/THSarabunNew(0)/m/n/12 มีหลักฐานที่ระบุเ
-วลาการปฏิบัติงาน ถ้าไม่มีหลักฐานหรือหลักฐานไม่ได้ระบุเวลา คณะ
+Underfull \hbox (badness 10000) in paragraph at lines 524--525
+[]|\TU/THSarabunNew(0)/m/n/12 ภาคเรียนฤดู
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 728--729
-[]\TU/THSarabunNew(0)/m/n/12 คณาจารย์ที่ดำเนินการไปบริการวิชาการภายนอกหน่วยงานใ
-ห้แนบตารางกำหนดการบอกเวลา
+Underfull \hbox (badness 10000) in paragraph at lines 548--549
+[]\TU/THSarabunNew(0)/m/n/12 ในกรณีที่รายวิชาใดมีผู้สอนที่มากกว่าหนึ่งคนให้คำนว
+ณภาระงานตามสัดส่วนจำนวนคาบ หรือจำนวน
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 734--735
-[]\TU/THSarabunNew(0)/m/n/12 ให้คณาจารย์เรียงหลักฐานตามแบบรายงานภาระงานให้มีควา
-มสอดคล้องกัน และ\TU/TeXGyreTermes(0)/m/n/12 /\TU/THSarabunNew(0)/m/n/12 หรือ ระ
-บุ
+Underfull \hbox (badness 10000) in paragraph at lines 548--549
+\TU/THSarabunNew(0)/m/n/12 ชั่วโมงที่คณาจารย์ประจำผู้นั้นได้ทำการสอนจริงต่อจำนว
+นคาบหรือจำนวนชั่วโมงโดยรวมทั้งหมดของ
+ []
+
+[11] [12] [13]
+Underfull \hbox (badness 10000) in paragraph at lines 689--689
+|[]\TU/TeXGyreTermes(0)/bx/n/17.28 1.5.1 \TU/THSarabunNew(0)/bx/n/17.28 งานที่ป
+รึกษา งานที่ปรึกษาเอกัตศึกษาหรืองานที่ปรึกษา
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 689--689
+\TU/THSarabunNew(0)/bx/n/17.28 อื่นที่เทียบเท่า ตามที่กำหนดไว้ในหลักสูตรระดับบั
+ณฑิตศึกษาของ
  []
 
 [14] [15] [16
 
 ]
-บทที่ 5.
+บทที่ .
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 774--774
+Overfull \hbox (10.0pt too wide) in paragraph at lines 746--746
 [][][][][][][][][]  
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 793--794
-[]\TU/THSarabunNew(0)/m/n/12 งานที่คณะวิทยาศาสตร์และเทคโนโลยี และ\TU/TeXGyreTer
-mes(0)/m/n/12 /\TU/THSarabunNew(0)/m/n/12 หรือ ที่มหาวิทยาลัยเทคโนโลยีราชมงคลพร
-ะนคร
+Underfull \hbox (badness 10000) in paragraph at lines 761--762
+\TU/THSarabunNew(0)/m/n/12 โดยต้องนำส่งเอกสารแสดงการแบ่งร้อยละของการมีส่วนร่วมท
+ี่มีการลงนามของผู้ที่มีรายชื่อ ทุก
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 813--814
+Underfull \hbox (badness 10000) in paragraph at lines 770--771
+[]\TU/THSarabunNew(0)/bx/n/12 ต้อง \TU/THSarabunNew(0)/m/n/12 คำนวณและใส่คะแนนภ
+าระงาน ตามประกาศทางคณะวิทยาศาสตร์และเทคโนโลยี คณะ
+ []
+
+[17] [18]
+Underfull \hbox (badness 10000) in paragraph at lines 822--822
+|[]\TU/TeXGyreTermes(0)/bx/n/17.28 2.3.1 \TU/THSarabunNew(0)/bx/n/17.28 การเข้า
+ร่วมประชุมหรือสัมมนาทางวิชาการ ที่ผ่านการอนุมัติ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 833--833
+|[]\TU/TeXGyreTermes(0)/bx/n/17.28 2.3.2 \TU/THSarabunNew(0)/bx/n/17.28 บทความว
+ิจัยหรือบทความวิชาการฉบับสมบูรณ์ที่ตีพิมพ์ใน
+ []
+
+
+Underfull \hbox (badness 5388) in paragraph at lines 843--843
+|[]\TU/TeXGyreTermes(0)/bx/n/17.28 2.3.4 \TU/THSarabunNew(0)/bx/n/17.28 บทความว
+ิจัยหรือบทความวิชาการที่ตีพิมพ์ในวารสารวิชาการ
+ []
+
+[19]
+Underfull \hbox (badness 5388) in paragraph at lines 855--855
+|[]\TU/TeXGyreTermes(0)/bx/n/17.28 2.3.6 \TU/THSarabunNew(0)/bx/n/17.28 บทความว
+ิจัยหรือบทความวิชาการที่ตีพิมพ์ในวารสารวิชาการ
+ []
+
+
+Underfull \hbox (badness 6978) in paragraph at lines 877--877
+|[]\TU/TeXGyreTermes(0)/bx/n/17.28 2.3.10 \TU/THSarabunNew(0)/bx/n/17.28 ผลงานว
+ิจัยที่หน่วยงานหรือองค์กรระดับชาติว่าจ้างให้ดำเนิน
+ []
+
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 909--909
+|[]\TU/TeXGyreTermes(0)/bx/n/17.28 2.3.13 \TU/THSarabunNew(0)/bx/n/17.28 ตำราหร
+ือหนังสือที่ได้รับการประเมินผ่านเกณฑ์การขอ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 914--914
+|[]\TU/TeXGyreTermes(0)/bx/n/17.28 2.3.14 \TU/THSarabunNew(0)/bx/n/17.28 ตำราหร
+ือหนังสือที่ผ่านการพิจารณาตามหลักเกณฑ์การ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 914--914
+\TU/THSarabunNew(0)/bx/n/17.28 ประเมินตำแหน่งทางวิชาการแต่ไม่ได้นำมาขอรับการประ
+เมิน
+ []
+
+[21]
+Underfull \hbox (badness 10000) in paragraph at lines 946--946
+|[]\TU/TeXGyreTermes(0)/bx/n/17.28 2.4.4 \TU/THSarabunNew(0)/bx/n/17.28 งานสร้า
+งสรรค์ที่ได้รับการเผยแพร่ในระดับความร่วมมือใน
+ []
+
+
+Underfull \hbox (badness 6236) in paragraph at lines 957--958
+[]\TU/THSarabunNew(0)/m/n/12 การนำผลงานวิจัยไปใช้ประโยชน์นอกมหาวิทยาลัย ในส่วนร
+าชการระดับกรม หรือเทียบเท่าขึ้นไป หรือ
+ []
+
+[22]
+บทที่ .
+
+Overfull \hbox (10.0pt too wide) in paragraph at lines 960--960
+[][][][][][][][][]  
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 969--970
+[]\TU/THSarabunNew(0)/m/n/12 ผู้รับผิดชอบในโครงการบริการวิชาการคิดคำนวณคะแนนภาร
+ะงานให้ผู้ปฏิบัติงานในโครงการทุกคน โดย
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 980--981
+[]\TU/THSarabunNew(0)/m/n/12 ชั่วโมงที่ปฏิบัติงานจริง ไม่นับเวลาพักกลางวัน \TU/
+TeXGyreTermes(0)/m/n/12 1 \TU/THSarabunNew(0)/m/n/12 ชั่วโมง และเวลาเตรียมงานที
+่อยู่นอกเหนือ
+ []
+
+[23
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1030--1031
+[]\TU/THSarabunNew(0)/bx/n/12 ต้อง \TU/THSarabunNew(0)/m/n/12 ใส่เวลาและคำนวณคะ
+แนนมาอย่างชัดเจน ถ้าขาดตกบกพร่อง คณะวิทยาศาสตร์และ
+ []
+
+[24]
+Underfull \hbox (badness 10000) in paragraph at lines 1137--1140
+[]\TU/THSarabunNew(0)/m/n/12 การเป็นกรรมการภายนอก \TU/TeXGyreTermes(0)/m/n/12 (
+\TU/THSarabunNew(0)/m/n/12 บริการสาธารณะ\TU/TeXGyreTermes(0)/m/n/12 ) \TU/THSar
+abunNew(0)/m/n/12 ให้หมายรวมถึง การเป็นกรรมการสมาคมวิชาการหรือ
+ []
+
+[25]
+Underfull \hbox (badness 10000) in paragraph at lines 1146--1146
+|[]\TU/TeXGyreHeros(0)/bx/n/17.28 3.2 \TU/THSarabunNew(0)/bx/n/17.28 การบริการว
+ิชาการเชิงพาณิชย์ ที่มีการเซ็นสัญญาที่หน่วยงาน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1148--1149
+\TU/THSarabunNew(0)/m/n/12 การคิดภาระงานการบริการวิชาการให้พิจารณาตามสัดส่วน ขอ
+งการมีส่วนร่วมในงานบริการทางวิชากา
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1151--1152
+[]\TU/THSarabunNew(0)/m/n/12 สำหรับการบริการวิชาการเชิงพาณิชย์ที่มียอดงบประมาณเ
+กินห้าแสนบาท แต่ไม่เกินหนึ่งล้านบาท
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1154--1155
+[]\TU/THSarabunNew(0)/m/n/12 หากยอดงบประมาณเกินหนึ่งล้านบาท ให้คิดภาระงานในอัตร
+า \TU/TeXGyreTermes(0)/m/n/12 2 \TU/THSarabunNew(0)/m/n/12 เท่าของภาระงานที่ปรา
+กฏใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1184--1185
+[]\TU/THSarabunNew(0)/m/n/12 การให้บริการข้อมูลคำปรึกษาทางวิชาการและวิชาชีพให้ห
+มายรวมถึง การไปปฏิบัติงานในสถานประกอบ
+ []
+
+[26] [27] [28
+
+]
+บทที่ .
+
+Overfull \hbox (10.0pt too wide) in paragraph at lines 1234--1234
+[][][][][][][][][]  
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1264--1265
 []\TU/THSarabunNew(0)/m/n/12 ถ้าเข้าร่วมโดยยังไม่ได้รับอนุญาตจากหัวหน้าหน่วยงาน
  คณาจารย์สามารถนำผลการเข้าร่วม
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 818--819
+Underfull \hbox (badness 10000) in paragraph at lines 1269--1270
 \TU/THSarabunNew(0)/m/n/12 กิจกรรมดังกล่าวข้างต้นจะมีการจัดงาน และ\TU/TeXGyreTe
 rmes(0)/m/n/12 /\TU/THSarabunNew(0)/m/n/12 หรือ กิจกรรมหลายครั้งหรือหลายวันในวั
 นสำคัญ
  []
 
-[17]
-Underfull \hbox (badness 10000) in paragraph at lines 839--839
-|[][]\TU/TeXGyreHeros(0)/bx/n/17.28 4.1 \TU/THSarabunNew(0)/bx/n/17.28 การเข้าร
-่วมในกิจกรรม\TU/TeXGyreHeros(0)/bx/n/17.28 /\TU/THSarabunNew(0)/bx/n/17.28 โครง
-การทำนุบำรุงศิลปวัฒนธรรม
+[29]
+Underfull \hbox (badness 10000) in paragraph at lines 1306--1307
+[]\TU/THSarabunNew(0)/m/n/12 ถ้าเข้าร่วมโดยยังไม่ได้รับอนุญาตจากหัวหน้าหน่วยงาน
+ คณาจารย์สามารถนำผลการเข้าร่วม
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 859--859
-|[][]\TU/TeXGyreHeros(0)/bx/n/17.28 4.2 \TU/THSarabunNew(0)/bx/n/17.28 การเป็นผ
-ู้รับผิดชอบในกิจกรรม\TU/TeXGyreHeros(0)/bx/n/17.28 /\TU/THSarabunNew(0)/bx/n/17
-.28 โครงการทำนุบำรุงศิลป
+Underfull \hbox (badness 10000) in paragraph at lines 1317--1317
+|[]\TU/TeXGyreHeros(0)/bx/n/17.28 4.1 \TU/THSarabunNew(0)/bx/n/17.28 การเข้าร่ว
+มในกิจกรรม\TU/TeXGyreHeros(0)/bx/n/17.28 /\TU/THSarabunNew(0)/bx/n/17.28 โครงกา
+รทำนุบำรุงศิลปวัฒนธรรมของ
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 871--871
-|[][]\TU/TeXGyreHeros(0)/bx/n/17.28 4.3 \TU/THSarabunNew(0)/bx/n/17.28 การเข้าร
-่วมในกิจกรรม\TU/TeXGyreHeros(0)/bx/n/17.28 /\TU/THSarabunNew(0)/bx/n/17.28 โครง
-การทำนุบำรุงศิลปวัฒนธรรม
- []
-
-[18]
-Underfull \hbox (badness 10000) in paragraph at lines 883--883
-|[][]\TU/TeXGyreHeros(0)/bx/n/17.28 4.4 \TU/THSarabunNew(0)/bx/n/17.28 การเป็นผ
-ู้รับผิดชอบในกิจกรรม\TU/TeXGyreHeros(0)/bx/n/17.28 /\TU/THSarabunNew(0)/bx/n/17
-.28 โครงการทำนุบำรุงศิลป
+Underfull \hbox (badness 10000) in paragraph at lines 1333--1333
+|[]\TU/TeXGyreHeros(0)/bx/n/17.28 4.2 \TU/THSarabunNew(0)/bx/n/17.28 การเป็นผู้
+รับผิดชอบในกิจกรรม\TU/TeXGyreHeros(0)/bx/n/17.28 /\TU/THSarabunNew(0)/bx/n/17.2
+8 โครงการทำนุบำรุงศิลป
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 895--895
-|[][]\TU/TeXGyreHeros(0)/bx/n/17.28 4.5 \TU/THSarabunNew(0)/bx/n/17.28 การเข้าร
-่วมในกิจกรรม\TU/TeXGyreHeros(0)/bx/n/17.28 /\TU/THSarabunNew(0)/bx/n/17.28 โครง
-การทำนุบำรุงศิลปวัฒนธรรม
+Underfull \hbox (badness 10000) in paragraph at lines 1341--1341
+|[]\TU/TeXGyreHeros(0)/bx/n/17.28 4.3 \TU/THSarabunNew(0)/bx/n/17.28 การเข้าร่ว
+มในกิจกรรม\TU/TeXGyreHeros(0)/bx/n/17.28 /\TU/THSarabunNew(0)/bx/n/17.28 โครงกา
+รทำนุบำรุงศิลปวัฒนธรรม
  []
 
-[19] [20
+[30]
+Underfull \hbox (badness 10000) in paragraph at lines 1349--1349
+|[]\TU/TeXGyreHeros(0)/bx/n/17.28 4.4 \TU/THSarabunNew(0)/bx/n/17.28 การเป็นผู้
+รับผิดชอบในกิจกรรม\TU/TeXGyreHeros(0)/bx/n/17.28 /\TU/THSarabunNew(0)/bx/n/17.2
+8 โครงการทำนุบำรุงศิลป
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1357--1357
+|[]\TU/TeXGyreHeros(0)/bx/n/17.28 4.5 \TU/THSarabunNew(0)/bx/n/17.28 การเข้าร่ว
+มในกิจกรรม\TU/TeXGyreHeros(0)/bx/n/17.28 /\TU/THSarabunNew(0)/bx/n/17.28 โครงกา
+รทำนุบำรุงศิลปวัฒนธรรมของ
+ []
+
+[31] [32
 
 ]
-บทที่ 6.
+บทที่ .
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 907--907
+Overfull \hbox (10.0pt too wide) in paragraph at lines 1369--1369
 [][][][][][][][][]  
  []
 
-[21] [22]
-บทที่ 7.
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 982--982
+Underfull \hbox (badness 6559) in paragraph at lines 1392--1393
+[]\TU/THSarabunNew(0)/bx/n/12 ต้อง \TU/THSarabunNew(0)/m/n/12 ระบุระยะเวลาอย่าง
+ชัดเจน คณะวิทยาศาสตร์และเทคโนโลยีขอสงวนสิทธิ์ในการ
+ []
+
+[33] [34]
+Overfull \hbox (188.75124pt too wide) in paragraph at lines 1485--1487
+[]
+ []
+
+[35] [36
+
+]
+บทที่ .
+
+Overfull \hbox (10.0pt too wide) in paragraph at lines 1519--1519
 [][][][][][][][][]  
  []
 
-[23
 
-] [24
+Underfull \hbox (badness 10000) in paragraph at lines 1524--1525
+[]\TU/THSarabunNew(0)/m/n/12 ใช้หลักฐานที่เป็นรูปแบบไฟล์อิเล็กทรอนิกส์ \TU/TeXG
+yreTermes(0)/m/n/12 (PDF \TU/THSarabunNew(0)/m/n/12 หรือ ภาพถ่าย\TU/TeXGyreTerm
+es(0)/m/n/12 ) \TU/THSarabunNew(0)/m/n/12 ตามหัวข้อผลงานในประกาศ
+ []
 
-]
-บทที่ 8.
+[37]
+Overfull \hbox (487.6pt too wide) in paragraph at lines 1552--1555
+\TU/THSarabunNew(0)/m/n/12 ุ \TU/TeXGyreTermes(0)/m/n/12 6.2 \TU/THSarabunNew(0
+)/m/n/12 งานของผู้ดำรงตำแหน่งรองศาสตราจารย์ \TU/TeXGyreTermes(0)/bx/n/12 ******
+*******************************************************************************
+*************************************** 
+ []
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 1047--1047
+[38]
+บทที่ .
+
+Overfull \hbox (10.0pt too wide) in paragraph at lines 1560--1560
 [][][][][][][][][]  
  []
 
-[25] [26
+
+Underfull \hbox (badness 10000) in paragraph at lines 1631--1633
+\TU/TeXGyreTermes(0)/m/n/12 goal) \TU/THSarabunNew(0)/m/n/12 การบูรณาการที่มีปร
+ะสิทธิผลเป็นมากกว่าความสอดคล้องไปในแนวทางเดียวกัน \TU/TeXGyreTermes(0)/m/n/12 (
+align-
+ []
+
+[39
+
+] [40]
+บทที่ .
+
+Overfull \hbox (10.0pt too wide) in paragraph at lines 1639--1639
+[][][][][][][][][]  
+ []
+
+[41
+
+] [42
 
 ]
-บทที่ 9.
+บทที่ .
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 1061--1061
+Overfull \hbox (10.0pt too wide) in paragraph at lines 1648--1648
 [][][][][][][][][]  
  []
 
 No file sphinx.ind.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1076.
-[27]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1076.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1661.
+[43]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1661.
  (sphinx.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1076.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1076.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1661.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1661.
 
 Package rerunfilecheck Info: File `sphinx.out' has not changed.
-(rerunfilecheck)             Checksum: B37A87345ACE7284DA860A7BD88DE619.
+(rerunfilecheck)             Checksum: 502329AEB99B266D2155CAE39C57F077.
  ) 
 Here is how much of TeX's memory you used:
- 28178 strings out of 427796
- 521043 string characters out of 3146288
- 661737 words of memory out of 3000000
- 31813 multiletter control sequences out of 15000+200000
- 544252 words of font info for 130 fonts, out of 3000000 for 9000
+ 28505 strings out of 427796
+ 526008 string characters out of 3146288
+ 673850 words of memory out of 3000000
+ 32135 multiletter control sequences out of 15000+200000
+ 544268 words of font info for 132 fonts, out of 3000000 for 9000
  1329 hyphenation exceptions out of 8191
- 53i,11n,118p,837b,2154s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 53i,12n,118p,993b,2154s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on sphinx.pdf (31 pages).
+Output written on sphinx.pdf (47 pages).
