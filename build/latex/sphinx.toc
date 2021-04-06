@@ -1,6 +1,6 @@
 \select@language {english}
 \select@language {english}
-\contentsline {chapter}{\numberline {}การประเมินผลสัมฤทธิ์ของงานของพนักงานมหาวิทยาลัย (องค์ประกอบที่ ๑) ตำแหน่งวิชาการ}{3}{chapter.1}
+\contentsline {chapter}{\numberline {}การประเมินผลสัมฤทธิ์ของงานของพนักงานมหาวิทยาลัย (องค์ประกอบที่ 1) ตำแหน่งวิชาการ}{3}{chapter.1}
 \contentsline {section}{\numberline {.1}การส่งหลักฐาน}{3}{section.1.1}
 \contentsline {subsection}{\numberline {.1.1}1. งานสอน}{3}{subsection.1.1.1}
 \contentsline {subsubsection}{มคอ. 3/4/5/6}{3}{subsubsection*.2}
@@ -12,33 +12,33 @@
 \contentsline {section}{\numberline {.2}ระดับความสำเร็จในการจัดทำ}{5}{section.1.2}
 \contentsline {subsection}{\numberline {.2.1}1. งานสอน}{5}{subsection.1.2.1}
 \contentsline {subsection}{\numberline {.2.2}2. งานวิจัยและงานวิชาการอื่น}{6}{subsection.1.2.2}
-\contentsline {subsection}{\numberline {.2.3}ระดับความสำเร็จในการจัดทำงานวิชาการอื่น}{6}{subsection.1.2.3}
-\contentsline {section}{\numberline {.3}3. ภาระงานวิจัยและวิชาการอื่น}{7}{section.1.3}
-\contentsline {section}{\numberline {.4}4. งานทำนุบำรุงศิลปวัฒนธรรม}{7}{section.1.4}
-\contentsline {section}{\numberline {.5}5. งานอื่น ๆ}{8}{section.1.5}
+\contentsline {subsubsection}{ระดับความสำเร็จในการจัดทำงานวิจัย}{6}{subsubsection*.4}
+\contentsline {subsubsection}{ระดับความสำเร็จในการจัดทำงานวิชาการอื่น}{6}{subsubsection*.5}
+\contentsline {subsection}{\numberline {.2.3}3. ภาระงานบริการวิชาการ}{7}{subsection.1.2.3}
+\contentsline {subsection}{\numberline {.2.4}4. งานทำนุบำรุงศิลปวัฒนธรรม}{7}{subsection.1.2.4}
+\contentsline {subsection}{\numberline {.2.5}5. งานอื่น ๆ}{8}{subsection.1.2.5}
 \contentsline {chapter}{\numberline {}การนำส่งหลักฐานการประเมิน (สายวิชาการ) องค์ 2}{9}{chapter.2}
 \contentsline {chapter}{\numberline {}1. ภาระงานสอน}{11}{chapter.3}
-\contentsline {section}{\numberline {.1}ภาระงานสอน สำหรับผู้มีตำแหน่ง}{11}{section.3.1}
-\contentsline {section}{\numberline {.2}1.1 งานสอนนักศึกษาในระดับปริญญาตรี}{11}{section.3.2}
-\contentsline {subsection}{\numberline {.2.1}1.1.1 การสอนรายวิชาบรรยาย 1 หน่วยกิต}{12}{subsection.3.2.1}
-\contentsline {subsection}{\numberline {.2.2}1.1.2 การสอนรายวิชาปฏิบัติการ 1 หน่วยกิต}{12}{subsection.3.2.2}
-\contentsline {subsection}{\numberline {.2.3}1.1.3 งานสหกิจศึกษา/ฝึกงาน 1 หน่วยกิตอาจารย์นิเทศสหกิจ/ฝึกงาน}{12}{subsection.3.2.3}
-\contentsline {subsection}{\numberline {.2.4}1.1.4 การศึกษาดูงาน}{12}{subsection.3.2.4}
-\contentsline {subsection}{\numberline {.2.5}1.1.5 งานฝึกภาคสนาม}{12}{subsection.3.2.5}
-\contentsline {section}{\numberline {.3}1.2 งานสอนนักศึกษาในระดับบัณฑิตศึกษา}{13}{section.3.3}
-\contentsline {subsection}{\numberline {.3.1}1.2.1 การสอนรายวิชาบรรยาย 1 หน่วยกิต}{13}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {.3.2}1.2.2 การสอนรายวิชาปฏิบัติ 1 หน่วยกิต}{13}{subsection.3.3.2}
-\contentsline {section}{\numberline {.4}1.3 งานสอนในระดับต่ำกว่าปริญญาตรี}{13}{section.3.4}
-\contentsline {subsection}{\numberline {.4.1}1.3.1 การสอนรายวิชาบรรยาย 1 หน่วยกิต}{13}{subsection.3.4.1}
-\contentsline {subsection}{\numberline {.4.2}1.3.2 การสอนรายวิชาปฏิบัติการ 1 หน่วยกิต}{13}{subsection.3.4.2}
-\contentsline {section}{\numberline {.5}1.4 งานด้านโครงงาน}{13}{section.3.5}
-\contentsline {subsection}{\numberline {.5.1}1.4.1 ที่ปรึกษาระดับปริญญาตรี}{14}{subsection.3.5.1}
-\contentsline {subsection}{\numberline {.5.2}1.4.2 กรรมการสอบโครงงาน}{14}{subsection.3.5.2}
-\contentsline {section}{\numberline {.6}1.5 งานด้านวิทยานิพนธ์และการค้นคว้าอิสระ}{14}{section.3.6}
-\contentsline {subsection}{\numberline {.6.1}1.5.1 งานที่ปรึกษา งานที่ปรึกษาเอกัตศึกษาหรืองานที่ปรึกษาอื่นที่เทียบเท่า ตามที่กำหนดไว้ในหลักสูตรระดับบัณฑิตศึกษาของมหาวิทยาลัย}{14}{subsection.3.6.1}
-\contentsline {subsection}{\numberline {.6.2}1.5.2 กรรมการสอบวิทยานิพนธ์}{14}{subsection.3.6.2}
-\contentsline {section}{\numberline {.7}1.6 การสอนในหลักสูตรอื่นนอกจาก 1.1 \sphinxhyphen {} 1.5}{15}{section.3.7}
-\contentsline {chapter}{\numberline {}2. ภาระงานวิจัยและบริการวิชาการ}{17}{chapter.4}
+\contentsline {section}{\numberline {.1}1.1 งานสอนนักศึกษาในระดับปริญญาตรี}{11}{section.3.1}
+\contentsline {subsection}{\numberline {.1.1}1.1.1 การสอนรายวิชาบรรยาย 1 หน่วยกิต}{11}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {.1.2}1.1.2 การสอนรายวิชาปฏิบัติการ 1 หน่วยกิต}{12}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {.1.3}1.1.3 งานสหกิจศึกษา/ฝึกงาน 1 หน่วยกิตอาจารย์นิเทศสหกิจ/ฝึกงาน}{12}{subsection.3.1.3}
+\contentsline {subsection}{\numberline {.1.4}1.1.4 การศึกษาดูงาน}{12}{subsection.3.1.4}
+\contentsline {subsection}{\numberline {.1.5}1.1.5 งานฝึกภาคสนาม}{12}{subsection.3.1.5}
+\contentsline {section}{\numberline {.2}1.2 งานสอนนักศึกษาในระดับบัณฑิตศึกษา}{12}{section.3.2}
+\contentsline {subsection}{\numberline {.2.1}1.2.1 การสอนรายวิชาบรรยาย 1 หน่วยกิต}{12}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {.2.2}1.2.2 การสอนรายวิชาปฏิบัติ 1 หน่วยกิต}{13}{subsection.3.2.2}
+\contentsline {section}{\numberline {.3}1.3 งานสอนในระดับต่ำกว่าปริญญาตรี}{13}{section.3.3}
+\contentsline {subsection}{\numberline {.3.1}1.3.1 การสอนรายวิชาบรรยาย 1 หน่วยกิต}{13}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {.3.2}1.3.2 การสอนรายวิชาปฏิบัติการ 1 หน่วยกิต}{13}{subsection.3.3.2}
+\contentsline {section}{\numberline {.4}1.4 งานด้านโครงงาน}{13}{section.3.4}
+\contentsline {subsection}{\numberline {.4.1}1.4.1 ที่ปรึกษาระดับปริญญาตรี}{13}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {.4.2}1.4.2 กรรมการสอบโครงงาน}{14}{subsection.3.4.2}
+\contentsline {section}{\numberline {.5}1.5 งานด้านวิทยานิพนธ์และการค้นคว้าอิสระ}{14}{section.3.5}
+\contentsline {subsection}{\numberline {.5.1}1.5.1 งานที่ปรึกษา งานที่ปรึกษาเอกัตศึกษาหรืองานที่ปรึกษาอื่นที่เทียบเท่า ตามที่กำหนดไว้ในหลักสูตรระดับบัณฑิตศึกษาของมหาวิทยาลัย}{14}{subsection.3.5.1}
+\contentsline {subsection}{\numberline {.5.2}1.5.2 กรรมการสอบวิทยานิพนธ์}{14}{subsection.3.5.2}
+\contentsline {section}{\numberline {.6}1.6 การสอนในหลักสูตรอื่นนอกจาก 1.1 \sphinxhyphen {} 1.5}{14}{section.3.6}
+\contentsline {chapter}{\numberline {}2. ภาระงานวิจัยและบริการวิชาการอื่น}{17}{chapter.4}
 \contentsline {section}{\numberline {.1}เงื่อนไขการได้รับการประเมิน}{17}{section.4.1}
 \contentsline {section}{\numberline {.2}สิ่งจำเป็นในหลักฐานการประเมิน}{17}{section.4.2}
 \contentsline {section}{\numberline {.3}2.1 การร่วมทำวิจัย}{18}{section.4.3}
@@ -69,14 +69,14 @@
 \contentsline {subsection}{\numberline {.6.3}2.4.3 งานสร้างสรรค์ที่ได้รับการเผยแพร่ในระดับชาติ}{22}{subsection.4.6.3}
 \contentsline {subsection}{\numberline {.6.4}2.4.4 งานสร้างสรรค์ที่ได้รับการเผยแพร่ในระดับความร่วมมือในระดับนานาชาติ}{22}{subsection.4.6.4}
 \contentsline {section}{\numberline {.7}2.5 การนำผลงานวิจัยไปใช้ประโยชน์}{22}{section.4.7}
-\contentsline {chapter}{\numberline {}3. ภาระงานวิจัยและบริการวิชาการ}{23}{chapter.5}
+\contentsline {chapter}{\numberline {}3. ภาระงานบริการวิชาการ}{23}{chapter.5}
 \contentsline {section}{\numberline {.1}การพิจารณาสัดส่วน}{23}{section.5.1}
 \contentsline {section}{\numberline {.2}เงื่อนไขการได้รับการประเมิน}{24}{section.5.2}
 \contentsline {section}{\numberline {.3}สิ่งจำเป็นในหลักฐานการประเมิน}{24}{section.5.3}
 \contentsline {section}{\numberline {.4}3.1 การบริการวิชาการแก่สังคม}{25}{section.5.4}
 \contentsline {subsection}{\numberline {.4.1}3.1.1 ปฏิบัติโครงการบริการวิชาการแก่สังคมตามแผน}{25}{subsection.5.4.1}
-\contentsline {subsubsection}{3.1.1.1 ผู้ร่วมกิจกรรมในโครงการ}{25}{subsubsection*.4}
-\contentsline {subsubsection}{3.1.1.2 วิทยากร}{25}{subsubsection*.5}
+\contentsline {subsubsection}{3.1.1.1 ผู้ร่วมกิจกรรมในโครงการ}{25}{subsubsection*.6}
+\contentsline {subsubsection}{3.1.1.2 วิทยากร}{25}{subsubsection*.7}
 \contentsline {subsection}{\numberline {.4.2}3.1.2 มีส่วนร่วมในการบริการวิชาการแก่สังคมในระดับสถาบัน}{25}{subsection.5.4.2}
 \contentsline {subsection}{\numberline {.4.3}3.1.3 การเป็นกรรมการเพื่อบริการวิชาการภายในหน่วยงาน}{25}{subsection.5.4.3}
 \contentsline {subsection}{\numberline {.4.4}3.1.4 การเป็นกรรมการภายนอก (บริการสาธารณะ)}{25}{subsection.5.4.4}
@@ -114,8 +114,10 @@
 \contentsline {chapter}{\numberline {}6. ภาระงานของผู้ดำรงตำแหน่งวิชาการ}{37}{chapter.8}
 \contentsline {section}{\numberline {.1}เงื่อนไขการได้รับการประเมิน}{37}{section.8.1}
 \contentsline {section}{\numberline {.2}สิ่งจำเป็นในหลักฐานการประเมิน}{38}{section.8.2}
-\contentsline {section}{\numberline {.3}6.1 งานของผู้ดำรงตำแหน่งศาสตราจารย์}{38}{section.8.3}
-\contentsline {section}{\numberline {.4}6.3 งานของผู้ดำรงตำแหน่งผู้ช่วยศาสตราจารย์}{38}{section.8.4}
-\contentsline {chapter}{\numberline {}อภิธานศัพท์}{39}{chapter.9}
-\contentsline {chapter}{\numberline {}คำถามที่พบบ่อย}{41}{chapter.10}
-\contentsline {chapter}{\numberline {}เอกสารประกอบ}{43}{chapter.11}
+\contentsline {section}{\numberline {.3}6.1 งานของผู้ดำรงตำแหน่งผู้ช่วยศาสตราจารย์}{38}{section.8.3}
+\contentsline {section}{\numberline {.4}6.2 งานของผู้ดำรงตำแหน่งรองศาสตราจารย์}{38}{section.8.4}
+\contentsline {section}{\numberline {.5}6.3 งานของผู้ดำรงตำแหน่งศาสตราจารย์}{39}{section.8.5}
+\contentsline {chapter}{\numberline {}7. ภาระงานของกลุ่มผู้บริหารและการเป็นคณะกรรมการ}{41}{chapter.9}
+\contentsline {chapter}{\numberline {}อภิธานศัพท์}{43}{chapter.10}
+\contentsline {chapter}{\numberline {}คำถามที่พบบ่อย}{45}{chapter.11}
+\contentsline {chapter}{\numberline {}เอกสารประกอบ}{47}{chapter.12}
