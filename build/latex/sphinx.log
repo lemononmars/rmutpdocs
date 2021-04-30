@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6840 64-bit) (preloaded format=xelatex 2018.11.7)  30 APR 2021 10:54
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6840 64-bit) (preloaded format=xelatex 2018.11.7)  30 APR 2021 10:55
 entering extended mode
 **./sphinx.tex
 (sphinx.tex
@@ -1779,24 +1779,14 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 1747.
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1747.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1747.
 
-
-
-Package rerunfilecheck Warning: File `sphinx.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `sphinx.out':
-(rerunfilecheck)             Before: A9F49B1CF371674CCF9C9AB3BE8CD0C9
-(rerunfilecheck)             After:  940A428B1BD8053862FCA7567D634D7F.
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
+Package rerunfilecheck Info: File `sphinx.out' has not changed.
+(rerunfilecheck)             Checksum: 940A428B1BD8053862FCA7567D634D7F.
  ) 
 Here is how much of TeX's memory you used:
- 28529 strings out of 427796
- 527472 string characters out of 3146288
+ 28527 strings out of 427796
+ 527453 string characters out of 3146288
  666701 words of memory out of 3000000
- 32150 multiletter control sequences out of 15000+200000
+ 32148 multiletter control sequences out of 15000+200000
  544268 words of font info for 132 fonts, out of 3000000 for 9000
  1329 hyphenation exceptions out of 8191
  53i,12n,118p,824b,2154s stack positions out of 5000i,500n,10000p,200000b,50000s
