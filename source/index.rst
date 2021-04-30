@@ -23,7 +23,7 @@
 
    howtosubmit
    submission_part1
-   workload_rubric
+   หลักเกณฑ์และวิธีการ คำนวณภาระงานขั้นต่ำ <workload_rubric>
    glossary
    official_documents
 
