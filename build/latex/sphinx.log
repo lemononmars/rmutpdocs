@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6840 64-bit) (preloaded format=xelatex 2018.11.7)  8 MAR 2021 18:04
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6840 64-bit) (preloaded format=xelatex 2018.11.7)  29 APR 2021 14:48
 entering extended mode
 **./sphinx.tex
 (sphinx.tex
@@ -1302,10 +1302,10 @@ LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/bx/n' will be
 (Font)              scaled to size 16.68896pt on input line 3.
 Font mapping `textext.tec' for font `TH Sarabun New Bold' not found.
 LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/m/n' will be
-(Font)              scaled to size 16.68896pt on input line 4.
+(Font)              scaled to size 16.68896pt on input line 5.
 Font mapping `textext.tec' for font `TH Sarabun New' not found.
  [1]
-Underfull \hbox (badness 10000) in paragraph at lines 102--102
+Underfull \hbox (badness 10000) in paragraph at lines 103--103
  [][] [][]\TU/TeXGyreTermes(0)/m/n/12 4.5 \TU/THSarabunNew(0)/m/n/12 การเข้าร่ว
 มในกิจกรรม\TU/TeXGyreTermes(0)/m/n/12 /\TU/THSarabunNew(0)/m/n/12 โครงการทำนุบำ
 รุงศิลปวัฒนธรรมของคณะวิทยาศาสตร์และ 
@@ -1351,44 +1351,70 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 134--134
 LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/bx/n' will be
 (Font)              scaled to size 24.0321pt on input line 134.
 Font mapping `textext.tec' for font `TH Sarabun New Bold' not found.
+File: submission_guideline1.png Graphic file (type bmp)
+<submission_guideline1.png>
+File: submission_guideline2.png Graphic file (type bmp)
+<submission_guideline2.png>
+[3]
+File: submission_guideline3.png Graphic file (type bmp)
+<submission_guideline3.png>
+File: submission_guideline4.png Graphic file (type bmp)
+<submission_guideline4.png>
+ [4]
+File: submission_guideline5.png Graphic file (type bmp)
+<submission_guideline5.png>
+File: submission_guideline6.png Graphic file (type bmp)
+<submission_guideline6.png>
+ [5]
+File: submission_guideline7.png Graphic file (type bmp)
+<submission_guideline7.png>
+ [6]
+บทที่ .
 
-Underfull \hbox (badness 10000) in paragraph at lines 171--173
+Overfull \hbox (10.0pt too wide) in paragraph at lines 153--153
+[][][][][][][][][]  
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 190--192
 \TU/THSarabunNew(0)/m/n/12 พระนครกำหนดไว้ให้หัวหน้าสาขาวิชา\TU/TeXGyreTermes(0)
 /m/n/12 /\TU/THSarabunNew(0)/m/n/12 หัวหน้าหมวดวิชาดำเนินการพิจารณาประเมินพฤติก
 รรมการปฏิบัติ
  []
 
-[3]
+[7
+
+]
 LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/m/it' will be
-(Font)              scaled to size 16.68896pt on input line 178.
+(Font)              scaled to size 16.68896pt on input line 197.
 Font mapping `textext.tec' for font `TH Sarabun New Italic' not found.
 
-Underfull \hbox (badness 10000) in paragraph at lines 226--227
+Underfull \hbox (badness 10000) in paragraph at lines 240--241
 []\TU/THSarabunNew(0)/m/n/12 หลักฐานว่าได้ผ่านการประเมินโดยคณะผู้ทรงคุณวุฒิในสา
 ขาวิชานั้น ๆ หรือสาขาวิชาที่
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 252--253
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
 \TU/THSarabunNew(0)/m/n/12 ใช้หลักฐานที่เกี่ยวข้องกับงานบริการวิชาการที่แสดงถึง
 การมีส่วนร่วมในโครงการบริการวิชาการภายใน
  []
 
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 293--294
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 307--308
 \TU/THSarabunNew(0)/m/n/12 ใช้หลักฐานที่เกี่ยวข้องกับงานอื่นๆหรืองานที่ได้รับมอ
 บหมายหรือได้รับอนุญาตที่นอกเหนือจาก งานสอน
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 299--300
+Underfull \hbox (badness 10000) in paragraph at lines 313--314
 []\TU/THSarabunNew(0)/m/n/12 ไฟล์อิเล็กทรอนิกส์ \TU/TeXGyreTermes(0)/m/n/12 (PD
 F) \TU/THSarabunNew(0)/m/n/12 ที่แสดงถึงการเข้าร่วมงานอื่นๆหรืองานที่ได้รับมอบห
 มายหรือได้รับ
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 316--318
+Underfull \hbox (badness 10000) in paragraph at lines 330--332
 []\TU/THSarabunNew(0)/m/n/12 มี มคอ\TU/TeXGyreTermes(0)/m/n/12 .3 \TU/THSarabun
 New(0)/m/n/12 และ\TU/TeXGyreTermes(0)/m/n/12 /\TU/THSarabunNew(0)/m/n/12 หรือ ม
 คอ\TU/TeXGyreTermes(0)/m/n/12 .4 \TU/THSarabunNew(0)/m/n/12 ประจำรายวิชาสอนที่เ
@@ -1397,13 +1423,13 @@ New(0)/m/n/12 และ\TU/TeXGyreTermes(0)/m/n/12 /\TU/THSarabunNew(0)/m/n/12 �
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 322--324
+Underfull \hbox (badness 10000) in paragraph at lines 336--338
 []\TU/THSarabunNew(0)/m/n/12 เป็นไปตามระดับที่ \TU/TeXGyreTermes(0)/m/n/12 2 \T
 U/THSarabunNew(0)/m/n/12 และมีการสอบวัดผลการศึกษาตามระเบียบของ มหาวิทยาลัย และ
  []
 
-[5]
-Underfull \hbox (badness 7030) in paragraph at lines 383--385
+[9]
+Underfull \hbox (badness 7030) in paragraph at lines 393--395
 []\TU/THSarabunNew(0)/m/n/12 เป็นไปตามระดับที่ \TU/TeXGyreTermes(0)/m/n/12 3 \T
 U/THSarabunNew(0)/m/n/12 และจัดทำ [][]\TU/THSarabunNew(0)/m/it/12 ตำรา[][]\TU/T
 eXGyreTermes(0)/m/n/12 /[][]\TU/THSarabunNew(0)/m/it/12 หนังสือ[][]\TU/TeXGyreT
@@ -1411,363 +1437,345 @@ ermes(0)/m/n/12 /\TU/THSarabunNew(0)/m/n/12 บทความวิชากา
 /n/12 /\TU/THSarabunNew(0)/m/n/12 บทความวิจัยฉบับสมบูรณ์
  []
 
-[6]
-Underfull \hbox (badness 10000) in paragraph at lines 435--437
+
+Underfull \hbox (badness 5417) in paragraph at lines 410--411
+[]\TU/THSarabunNew(0)/m/n/12 ตำราที่ผ่านการประเมินคุณภาพจากผู้ทรงคุณวุฒิจากกองว
+ิชาการและพัฒนาคณะจารย์ นับเป็นผล
+ []
+
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 413--414
+[]\TU/THSarabunNew(0)/m/n/12 ตำราที่ผ่านการประเมินคุณภาพจากผู้ทรงคุณวุฒิจากกองว
+ิชาการและพัฒนาคณาจารย์ และได้รับ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 449--451
 []\TU/THSarabunNew(0)/m/n/12 เป็นผู้มีส่วนร่วมงานทำนุบำรุงศิลปวัฒนธรรมในกิจกรรม
 \TU/TeXGyreTermes(0)/m/n/12 /\TU/THSarabunNew(0)/m/n/12 โครงการของหน่วยงาน หรือ
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--440
+Underfull \hbox (badness 10000) in paragraph at lines 452--454
 []\TU/THSarabunNew(0)/m/n/12 เป็นผู้มีส่วนร่วมงานทำนุบำรุงศิลปวัฒนธรรมในกิจกรรม
 \TU/TeXGyreTermes(0)/m/n/12 /\TU/THSarabunNew(0)/m/n/12 โครงการของหน่วยงาน หรือ
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 441--443
+Underfull \hbox (badness 10000) in paragraph at lines 455--457
 []\TU/THSarabunNew(0)/m/n/12 เป็นผู้มีส่วนร่วมงานทำนุบำรุงศิลปวัฒนธรรมในกิจกรรม
 \TU/TeXGyreTermes(0)/m/n/12 /\TU/THSarabunNew(0)/m/n/12 โครงการของหน่วยงาน หรือ
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 444--445
+Underfull \hbox (badness 10000) in paragraph at lines 458--459
 []\TU/THSarabunNew(0)/m/it/12 หรือ \TU/THSarabunNew(0)/m/n/12 เป็นคณะกรรมการงาน
 ทำนุบำรุงศิลปวัฒนธรรมในกิจกรรม\TU/TeXGyreTermes(0)/m/n/12 /\TU/THSarabunNew(0)/
 m/n/12 โครงการของหน่วยงาน หรือ
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 446--448
+Underfull \hbox (badness 10000) in paragraph at lines 460--462
 []\TU/THSarabunNew(0)/m/n/12 เป็นผู้มีส่วนร่วมงานทำนุบำรุงศิลปวัฒนธรรมในกิจกรรม
 \TU/TeXGyreTermes(0)/m/n/12 /\TU/THSarabunNew(0)/m/n/12 โครงการของหน่วยงาน หรือ
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 449--450
+Underfull \hbox (badness 10000) in paragraph at lines 463--464
 []\TU/THSarabunNew(0)/m/it/12 หรือ \TU/THSarabunNew(0)/m/n/12 เป็นคณะกรรมการงาน
 ทำนุบำรุงศิลปวัฒนธรรมในกิจกรรม\TU/TeXGyreTermes(0)/m/n/12 /\TU/THSarabunNew(0)/
 m/n/12 โครงการของหน่วยงาน หรือ
  []
 
-[7]
-Underfull \hbox (badness 7613) in paragraph at lines 459--461
+[11]
+Underfull \hbox (badness 7613) in paragraph at lines 473--475
 []\TU/THSarabunNew(0)/m/n/12 เข้าร่วมกิจกรรม\TU/TeXGyreTermes(0)/m/n/12 /\TU/TH
 SarabunNew(0)/m/n/12 งานอื่น ๆ หรืองานที่ได้รับมอบหมายหรือได้รับอนุญาตจากหน่วยง
 าน หรือ
  []
 
 
-Underfull \hbox (badness 7613) in paragraph at lines 462--464
+Underfull \hbox (badness 7613) in paragraph at lines 476--478
 []\TU/THSarabunNew(0)/m/n/12 เข้าร่วมกิจกรรม\TU/TeXGyreTermes(0)/m/n/12 /\TU/TH
 SarabunNew(0)/m/n/12 งานอื่น ๆ หรืองานที่ได้รับมอบหมายหรือได้รับอนุญาตจากหน่วยง
 าน หรือ
  []
 
 
-Underfull \hbox (badness 7613) in paragraph at lines 465--467
+Underfull \hbox (badness 7613) in paragraph at lines 479--481
 []\TU/THSarabunNew(0)/m/n/12 เข้าร่วมกิจกรรม\TU/TeXGyreTermes(0)/m/n/12 /\TU/TH
 SarabunNew(0)/m/n/12 งานอื่น ๆ หรืองานที่ได้รับมอบหมายหรือได้รับอนุญาตจากหน่วยง
 าน หรือ
  []
 
 
-Underfull \hbox (badness 7613) in paragraph at lines 468--470
+Underfull \hbox (badness 7613) in paragraph at lines 482--484
 []\TU/THSarabunNew(0)/m/n/12 เข้าร่วมกิจกรรม\TU/TeXGyreTermes(0)/m/n/12 /\TU/TH
 SarabunNew(0)/m/n/12 งานอื่น ๆ หรืองานที่ได้รับมอบหมายหรือได้รับอนุญาตจากหน่วยง
 าน หรือ
  []
 
 
-Underfull \hbox (badness 7613) in paragraph at lines 471--473
+Underfull \hbox (badness 7613) in paragraph at lines 485--487
 []\TU/THSarabunNew(0)/m/n/12 เข้าร่วมกิจกรรม\TU/TeXGyreTermes(0)/m/n/12 /\TU/TH
 SarabunNew(0)/m/n/12 งานอื่น ๆ หรืองานที่ได้รับมอบหมายหรือได้รับอนุญาตจากหน่วยง
 าน หรือ
  []
 
-[8]
+[12]
 บทที่ .
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 477--477
+Overfull \hbox (10.0pt too wide) in paragraph at lines 491--491
 [][][][][][][][][]  
  []
 
-[9
+[13
 
-] [10
+] [14
 
 ]
 บทที่ .
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 480--480
+Overfull \hbox (10.0pt too wide) in paragraph at lines 494--494
 [][][][][][][][][]  
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 512--513
-[]|\TU/THSarabunNew(0)/m/n/12 ประเภท
+Underfull \hbox (badness 10000) in paragraph at lines 520--521
+\TU/THSarabunNew(0)/m/n/12 ในกรณีที่รายวิชาใดมีผู้สอนที่มากกว่าหนึ่งคนให้คำนวณภ
+าระงานตามสัดส่วนจำนวนคาบ หรือจำนวน
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 516--517
-[]|\TU/THSarabunNew(0)/m/n/12 ภาคเรียนฤดู
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 540--541
-[]\TU/THSarabunNew(0)/m/n/12 ในกรณีที่รายวิชาใดมีผู้สอนที่มากกว่าหนึ่งคนให้คำนว
-ณภาระงานตามสัดส่วนจำนวนคาบ หรือจำนวน
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 540--541
+Underfull \hbox (badness 10000) in paragraph at lines 520--521
 \TU/THSarabunNew(0)/m/n/12 ชั่วโมงที่คณาจารย์ประจำผู้นั้นได้ทำการสอนจริงต่อจำนว
 นคาบหรือจำนวนชั่วโมงโดยรวมทั้งหมดของ
  []
 
-[11] [12] [13]
-Underfull \hbox (badness 10000) in paragraph at lines 681--681
+[15] [16] [17]
+Underfull \hbox (badness 10000) in paragraph at lines 661--661
 |[]\TU/TeXGyreTermes(0)/bx/n/17.28 1.5.1 \TU/THSarabunNew(0)/bx/n/17.28 งานที่ป
 รึกษา งานที่ปรึกษาเอกัตศึกษาหรืองานที่ปรึกษา
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 681--681
+Underfull \hbox (badness 10000) in paragraph at lines 661--661
 \TU/THSarabunNew(0)/bx/n/17.28 อื่นที่เทียบเท่า ตามที่กำหนดไว้ในหลักสูตรระดับบั
 ณฑิตศึกษาของ
  []
 
-[14] [15] [16
+[18] [19] [20
 
 ]
 บทที่ .
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 738--738
+Overfull \hbox (10.0pt too wide) in paragraph at lines 718--718
 [][][][][][][][][]  
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 753--754
+Underfull \hbox (badness 10000) in paragraph at lines 733--734
 \TU/THSarabunNew(0)/m/n/12 โดยต้องนำส่งเอกสารแสดงการแบ่งร้อยละของการมีส่วนร่วมท
 ี่มีการลงนามของผู้ที่มีรายชื่อ ทุก
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 762--763
+Underfull \hbox (badness 10000) in paragraph at lines 742--743
 []\TU/THSarabunNew(0)/bx/n/12 ต้อง \TU/THSarabunNew(0)/m/n/12 คำนวณและใส่คะแนนภ
 าระงาน ตามประกาศทางคณะวิทยาศาสตร์และเทคโนโลยี คณะ
  []
 
-[17] [18]
-Underfull \hbox (badness 10000) in paragraph at lines 814--814
+[21] [22]
+Underfull \hbox (badness 10000) in paragraph at lines 794--794
 |[]\TU/TeXGyreTermes(0)/bx/n/17.28 2.3.1 \TU/THSarabunNew(0)/bx/n/17.28 การเข้า
 ร่วมประชุมหรือสัมมนาทางวิชาการ ที่ผ่านการอนุมัติ
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 825--825
+Underfull \hbox (badness 10000) in paragraph at lines 805--805
 |[]\TU/TeXGyreTermes(0)/bx/n/17.28 2.3.2 \TU/THSarabunNew(0)/bx/n/17.28 บทความว
 ิจัยหรือบทความวิชาการฉบับสมบูรณ์ที่ตีพิมพ์ใน
  []
 
 
-Underfull \hbox (badness 5388) in paragraph at lines 835--835
+Underfull \hbox (badness 5388) in paragraph at lines 815--815
 |[]\TU/TeXGyreTermes(0)/bx/n/17.28 2.3.4 \TU/THSarabunNew(0)/bx/n/17.28 บทความว
 ิจัยหรือบทความวิชาการที่ตีพิมพ์ในวารสารวิชาการ
  []
 
-[19]
-Underfull \hbox (badness 5388) in paragraph at lines 847--847
+[23]
+Underfull \hbox (badness 5388) in paragraph at lines 827--827
 |[]\TU/TeXGyreTermes(0)/bx/n/17.28 2.3.6 \TU/THSarabunNew(0)/bx/n/17.28 บทความว
 ิจัยหรือบทความวิชาการที่ตีพิมพ์ในวารสารวิชาการ
  []
 
 
-Underfull \hbox (badness 6978) in paragraph at lines 869--869
+Underfull \hbox (badness 6978) in paragraph at lines 849--849
 |[]\TU/TeXGyreTermes(0)/bx/n/17.28 2.3.10 \TU/THSarabunNew(0)/bx/n/17.28 ผลงานว
 ิจัยที่หน่วยงานหรือองค์กรระดับชาติว่าจ้างให้ดำเนิน
  []
 
-[20]
-Underfull \hbox (badness 10000) in paragraph at lines 901--901
+[24]
+Underfull \hbox (badness 10000) in paragraph at lines 881--881
 |[]\TU/TeXGyreTermes(0)/bx/n/17.28 2.3.13 \TU/THSarabunNew(0)/bx/n/17.28 ตำราหร
 ือหนังสือที่ได้รับการประเมินผ่านเกณฑ์การขอ
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 906--906
+Underfull \hbox (badness 10000) in paragraph at lines 886--886
 |[]\TU/TeXGyreTermes(0)/bx/n/17.28 2.3.14 \TU/THSarabunNew(0)/bx/n/17.28 ตำราหร
 ือหนังสือที่ผ่านการพิจารณาตามหลักเกณฑ์การ
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 906--906
+Underfull \hbox (badness 10000) in paragraph at lines 886--886
 \TU/THSarabunNew(0)/bx/n/17.28 ประเมินตำแหน่งทางวิชาการแต่ไม่ได้นำมาขอรับการประ
 เมิน
  []
 
-[21]
-Underfull \hbox (badness 10000) in paragraph at lines 938--938
+[25]
+Underfull \hbox (badness 10000) in paragraph at lines 920--920
 |[]\TU/TeXGyreTermes(0)/bx/n/17.28 2.4.4 \TU/THSarabunNew(0)/bx/n/17.28 งานสร้า
 งสรรค์ที่ได้รับการเผยแพร่ในระดับความร่วมมือใน
  []
 
 
-Underfull \hbox (badness 6236) in paragraph at lines 949--950
+Underfull \hbox (badness 6236) in paragraph at lines 931--932
 []\TU/THSarabunNew(0)/m/n/12 การนำผลงานวิจัยไปใช้ประโยชน์นอกมหาวิทยาลัย ในส่วนร
 าชการระดับกรม หรือเทียบเท่าขึ้นไป หรือ
  []
 
-[22]
+[26]
 บทที่ .
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 952--952
+Overfull \hbox (10.0pt too wide) in paragraph at lines 934--934
 [][][][][][][][][]  
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 964--965
+Underfull \hbox (badness 10000) in paragraph at lines 946--947
 []\TU/THSarabunNew(0)/m/n/12 ผู้รับผิดชอบในโครงการบริการวิชาการคิดคำนวณคะแนนภาร
 ะงานให้ผู้ปฏิบัติงานในโครงการทุกคน โดย
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 975--976
+Underfull \hbox (badness 10000) in paragraph at lines 957--958
 []\TU/THSarabunNew(0)/m/n/12 ชั่วโมงที่ปฏิบัติงานจริง ไม่นับเวลาพักกลางวัน \TU/
 TeXGyreTermes(0)/m/n/12 1 \TU/THSarabunNew(0)/m/n/12 ชั่วโมง และเวลาเตรียมงานที
 ่อยู่นอกเหนือ
  []
 
-[23
+[27
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 1025--1026
+Underfull \hbox (badness 10000) in paragraph at lines 1007--1008
 []\TU/THSarabunNew(0)/bx/n/12 ต้อง \TU/THSarabunNew(0)/m/n/12 ใส่เวลาและคำนวณคะ
 แนนมาอย่างชัดเจน ถ้าขาดตกบกพร่อง คณะวิทยาศาสตร์และ
  []
 
-[24]
-Underfull \hbox (badness 10000) in paragraph at lines 1132--1135
+[28]
+Underfull \hbox (badness 10000) in paragraph at lines 1114--1117
 []\TU/THSarabunNew(0)/m/n/12 การเป็นกรรมการภายนอก \TU/TeXGyreTermes(0)/m/n/12 (
 \TU/THSarabunNew(0)/m/n/12 บริการสาธารณะ\TU/TeXGyreTermes(0)/m/n/12 ) \TU/THSar
 abunNew(0)/m/n/12 ให้หมายรวมถึง การเป็นกรรมการสมาคมวิชาการหรือ
  []
 
-[25]
-Underfull \hbox (badness 10000) in paragraph at lines 1141--1141
+[29]
+Underfull \hbox (badness 10000) in paragraph at lines 1123--1123
 |[]\TU/TeXGyreHeros(0)/bx/n/17.28 3.2 \TU/THSarabunNew(0)/bx/n/17.28 การบริการว
 ิชาการเชิงพาณิชย์ ที่มีการเซ็นสัญญาที่หน่วยงาน
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1143--1144
+Underfull \hbox (badness 10000) in paragraph at lines 1125--1126
 \TU/THSarabunNew(0)/m/n/12 การคิดภาระงานการบริการวิชาการให้พิจารณาตามสัดส่วน ขอ
 งการมีส่วนร่วมในงานบริการทางวิชากา
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1146--1147
+Underfull \hbox (badness 10000) in paragraph at lines 1128--1129
 []\TU/THSarabunNew(0)/m/n/12 สำหรับการบริการวิชาการเชิงพาณิชย์ที่มียอดงบประมาณเ
 กินห้าแสนบาท แต่ไม่เกินหนึ่งล้านบาท
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1149--1150
+Underfull \hbox (badness 10000) in paragraph at lines 1131--1132
 []\TU/THSarabunNew(0)/m/n/12 หากยอดงบประมาณเกินหนึ่งล้านบาท ให้คิดภาระงานในอัตร
 า \TU/TeXGyreTermes(0)/m/n/12 2 \TU/THSarabunNew(0)/m/n/12 เท่าของภาระงานที่ปรา
 กฏใน
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1179--1180
+Underfull \hbox (badness 10000) in paragraph at lines 1161--1162
 []\TU/THSarabunNew(0)/m/n/12 การให้บริการข้อมูลคำปรึกษาทางวิชาการและวิชาชีพให้ห
 มายรวมถึง การไปปฏิบัติงานในสถานประกอบ
  []
 
-[26] [27] [28
+[30] [31] [32
 
 ]
 บทที่ .
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 1229--1229
+Overfull \hbox (10.0pt too wide) in paragraph at lines 1211--1211
 [][][][][][][][][]  
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1259--1260
+Underfull \hbox (badness 10000) in paragraph at lines 1241--1242
 []\TU/THSarabunNew(0)/m/n/12 ถ้าเข้าร่วมโดยยังไม่ได้รับอนุญาตจากหัวหน้าหน่วยงาน
  คณาจารย์สามารถนำผลการเข้าร่วม
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1264--1265
+Underfull \hbox (badness 10000) in paragraph at lines 1246--1247
 \TU/THSarabunNew(0)/m/n/12 กิจกรรมดังกล่าวข้างต้นจะมีการจัดงาน และ\TU/TeXGyreTe
 rmes(0)/m/n/12 /\TU/THSarabunNew(0)/m/n/12 หรือ กิจกรรมหลายครั้งหรือหลายวันในวั
 นสำคัญ
  []
 
-[29]
-Underfull \hbox (badness 10000) in paragraph at lines 1301--1302
+[33]
+Underfull \hbox (badness 10000) in paragraph at lines 1283--1284
 []\TU/THSarabunNew(0)/m/n/12 ถ้าเข้าร่วมโดยยังไม่ได้รับอนุญาตจากหัวหน้าหน่วยงาน
  คณาจารย์สามารถนำผลการเข้าร่วม
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1312--1312
+Underfull \hbox (badness 10000) in paragraph at lines 1294--1294
 |[]\TU/TeXGyreHeros(0)/bx/n/17.28 4.1 \TU/THSarabunNew(0)/bx/n/17.28 การเข้าร่ว
 มในกิจกรรม\TU/TeXGyreHeros(0)/bx/n/17.28 /\TU/THSarabunNew(0)/bx/n/17.28 โครงกา
 รทำนุบำรุงศิลปวัฒนธรรมของ
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1328--1328
+Underfull \hbox (badness 10000) in paragraph at lines 1310--1310
 |[]\TU/TeXGyreHeros(0)/bx/n/17.28 4.2 \TU/THSarabunNew(0)/bx/n/17.28 การเป็นผู้
 รับผิดชอบในกิจกรรม\TU/TeXGyreHeros(0)/bx/n/17.28 /\TU/THSarabunNew(0)/bx/n/17.2
 8 โครงการทำนุบำรุงศิลป
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1336--1336
+Underfull \hbox (badness 10000) in paragraph at lines 1318--1318
 |[]\TU/TeXGyreHeros(0)/bx/n/17.28 4.3 \TU/THSarabunNew(0)/bx/n/17.28 การเข้าร่ว
 มในกิจกรรม\TU/TeXGyreHeros(0)/bx/n/17.28 /\TU/THSarabunNew(0)/bx/n/17.28 โครงกา
 รทำนุบำรุงศิลปวัฒนธรรม
  []
 
-[30]
-Underfull \hbox (badness 10000) in paragraph at lines 1344--1344
+[34]
+Underfull \hbox (badness 10000) in paragraph at lines 1326--1326
 |[]\TU/TeXGyreHeros(0)/bx/n/17.28 4.4 \TU/THSarabunNew(0)/bx/n/17.28 การเป็นผู้
 รับผิดชอบในกิจกรรม\TU/TeXGyreHeros(0)/bx/n/17.28 /\TU/THSarabunNew(0)/bx/n/17.2
 8 โครงการทำนุบำรุงศิลป
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1352--1352
+Underfull \hbox (badness 10000) in paragraph at lines 1334--1334
 |[]\TU/TeXGyreHeros(0)/bx/n/17.28 4.5 \TU/THSarabunNew(0)/bx/n/17.28 การเข้าร่ว
 มในกิจกรรม\TU/TeXGyreHeros(0)/bx/n/17.28 /\TU/THSarabunNew(0)/bx/n/17.28 โครงกา
 รทำนุบำรุงศิลปวัฒนธรรมของ
- []
-
-[31] [32
-
-]
-บทที่ .
-
-Overfull \hbox (10.0pt too wide) in paragraph at lines 1364--1364
-[][][][][][][][][]  
- []
-
-
-Underfull \hbox (badness 6559) in paragraph at lines 1387--1388
-[]\TU/THSarabunNew(0)/bx/n/12 ต้อง \TU/THSarabunNew(0)/m/n/12 ระบุระยะเวลาอย่าง
-ชัดเจน คณะวิทยาศาสตร์และเทคโนโลยีขอสงวนสิทธิ์ในการ
- []
-
-[33] [34]
-Overfull \hbox (188.75124pt too wide) in paragraph at lines 1480--1482
-[]
  []
 
 [35] [36
@@ -1775,39 +1783,19 @@ Overfull \hbox (188.75124pt too wide) in paragraph at lines 1480--1482
 ]
 บทที่ .
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 1514--1514
+Overfull \hbox (10.0pt too wide) in paragraph at lines 1346--1346
 [][][][][][][][][]  
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1519--1520
-[]\TU/THSarabunNew(0)/m/n/12 ใช้หลักฐานที่เป็นรูปแบบไฟล์อิเล็กทรอนิกส์ \TU/TeXG
-yreTermes(0)/m/n/12 (PDF \TU/THSarabunNew(0)/m/n/12 หรือ ภาพถ่าย\TU/TeXGyreTerm
-es(0)/m/n/12 ) \TU/THSarabunNew(0)/m/n/12 ตามหัวข้อผลงานในประกาศ
+Underfull \hbox (badness 6559) in paragraph at lines 1369--1370
+[]\TU/THSarabunNew(0)/bx/n/12 ต้อง \TU/THSarabunNew(0)/m/n/12 ระบุระยะเวลาอย่าง
+ชัดเจน คณะวิทยาศาสตร์และเทคโนโลยีขอสงวนสิทธิ์ในการ
  []
 
-[37]
-Underfull \hbox (badness 10000) in paragraph at lines 1547--1548
-\TU/THSarabunNew(0)/m/n/12 ุมีบทความจากผลงานวิจัย ที่ได้รับการตีพิมพ์เผยแพร่ในว
-ารสารวิชาการที่มีกระบวนการตรวจสอบผลงาน
- []
-
-
-Underfull \hbox (badness 5667) in paragraph at lines 1547--1548
-\TU/THSarabunNew(0)/m/n/12 สาขานั้น ๆ หรือได้นำเสนอในการประชุมวิชาการ พร้อมทั้ง
-เสนอผลงานฉบับสมบูรณ์ หรือ ผลงานใน
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1570--1571
-\TU/THSarabunNew(0)/m/n/12 มีบทความจากผลงานวิจัยหรือผลงานในลักษณะอื่นที่เทียบเท
-่า ที่ได้รับการตีพิมพ์เผยแพร่ในวารสาร
- []
-
-[38]
-Underfull \hbox (badness 10000) in paragraph at lines 1590--1591
-\TU/THSarabunNew(0)/m/n/12 มีบทความจากผลงานวิจัยหรือผลงานในลักษณะอื่นที่เทียบเท
-่า ที่ได้รับการตีพิมพ์เผยแพร่ในวารสาร
+[37] [38]
+Overfull \hbox (188.75124pt too wide) in paragraph at lines 1462--1464
+[]
  []
 
 [39] [40
@@ -1815,68 +1803,144 @@ Underfull \hbox (badness 10000) in paragraph at lines 1590--1591
 ]
 บทที่ .
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 1608--1608
+Overfull \hbox (10.0pt too wide) in paragraph at lines 1496--1496
 [][][][][][][][][]  
  []
 
 
-Underfull \hbox (badness 5490) in paragraph at lines 1626--1627
-[]\TU/THSarabunNew(0)/m/n/12 รองคณบดี รองผู้อำนวยการวิทยาลัย รองผู้อำนวยการสถาบ
-ัน รองผู้อำนวยการสำนัก หรือรอง
+Underfull \hbox (badness 10000) in paragraph at lines 1501--1502
+[]\TU/THSarabunNew(0)/m/n/12 ใช้หลักฐานที่เป็นรูปแบบไฟล์อิเล็กทรอนิกส์ \TU/TeXG
+yreTermes(0)/m/n/12 (PDF \TU/THSarabunNew(0)/m/n/12 หรือ ภาพถ่าย\TU/TeXGyreTerm
+es(0)/m/n/12 ) \TU/THSarabunNew(0)/m/n/12 ตามหัวข้อผลงานในประกาศ
  []
 
-[41] [42
+[41]
+Underfull \hbox (badness 10000) in paragraph at lines 1529--1530
+\TU/THSarabunNew(0)/m/n/12 ุมีบทความจากผลงานวิจัย ที่ได้รับการตีพิมพ์เผยแพร่ในว
+ารสารวิชาการที่มีกระบวนการตรวจสอบผลงาน
+ []
+
+
+Underfull \hbox (badness 5667) in paragraph at lines 1529--1530
+\TU/THSarabunNew(0)/m/n/12 สาขานั้น ๆ หรือได้นำเสนอในการประชุมวิชาการ พร้อมทั้ง
+เสนอผลงานฉบับสมบูรณ์ หรือ ผลงานใน
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1552--1553
+\TU/THSarabunNew(0)/m/n/12 มีบทความจากผลงานวิจัยหรือผลงานในลักษณะอื่นที่เทียบเท
+่า ที่ได้รับการตีพิมพ์เผยแพร่ในวารสาร
+ []
+
+[42]
+Underfull \hbox (badness 10000) in paragraph at lines 1572--1573
+\TU/THSarabunNew(0)/m/n/12 มีบทความจากผลงานวิจัยหรือผลงานในลักษณะอื่นที่เทียบเท
+่า ที่ได้รับการตีพิมพ์เผยแพร่ในวารสาร
+ []
+
+[43] [44
 
 ]
 บทที่ .
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 1654--1654
+Overfull \hbox (10.0pt too wide) in paragraph at lines 1590--1590
 [][][][][][][][][]  
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1725--1727
+Underfull \hbox (badness 5490) in paragraph at lines 1608--1609
+[]\TU/THSarabunNew(0)/m/n/12 รองคณบดี รองผู้อำนวยการวิทยาลัย รองผู้อำนวยการสถาบ
+ัน รองผู้อำนวยการสำนัก หรือรอง
+ []
+
+[45] [46
+
+]
+บทที่ .
+
+Overfull \hbox (10.0pt too wide) in paragraph at lines 1636--1636
+[][][][][][][][][]  
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1707--1709
 \TU/TeXGyreTermes(0)/m/n/12 goal) \TU/THSarabunNew(0)/m/n/12 การบูรณาการที่มีปร
 ะสิทธิผลเป็นมากกว่าความสอดคล้องไปในแนวทางเดียวกัน \TU/TeXGyreTermes(0)/m/n/12 (
 align-
  []
 
-[43] [44]
+[47] [48]
 บทที่ .
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 1733--1733
+Overfull \hbox (10.0pt too wide) in paragraph at lines 1715--1715
 [][][][][][][][][]  
  []
 
-[45
+[49
 
-] [46
+] [50
 
 ]
 บทที่ .
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 1742--1742
+Overfull \hbox (10.0pt too wide) in paragraph at lines 1724--1724
 [][][][][][][][][]  
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 1726--1727
+\TU/TeXGyreCursor(0)/m/n/12 pdf \TU/THSarabunNew(0)/m/n/12 ประกาศคณะวิทยาศาสตร์
+และเทคโนโลยีมหาวิทยาลัยเทคโนโลยีราชมงคลพระนคร เรื่อง เกณฑ์
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1730--1731
+[]\TU/TeXGyreCursor(0)/m/n/12 pdf \TU/THSarabunNew(0)/m/n/12 ประกาศ ก\TU/TeXGyr
+eTermes(0)/m/n/12 .\TU/THSarabunNew(0)/m/n/12 พ\TU/TeXGyreTermes(0)/m/n/12 .\TU
+/THSarabunNew(0)/m/n/12 อ\TU/TeXGyreTermes(0)/m/n/12 . \TU/THSarabunNew(0)/m/n/
+12 เรื่อง มาตรฐานภาระงานทางวิชาการของผู้ดำรงตำแหน่งอาจารย์ ผู้ช่วย
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1740--1741
+[]\TU/TeXGyreCursor(0)/m/n/12 pdf \TU/THSarabunNew(0)/m/n/12 ประกาศ ก\TU/TeXGyr
+eTermes(0)/m/n/12 .\TU/THSarabunNew(0)/m/n/12 พ\TU/TeXGyreTermes(0)/m/n/12 .\TU
+/THSarabunNew(0)/m/n/12 อ\TU/TeXGyreTermes(0)/m/n/12 . \TU/THSarabunNew(0)/m/n/
+12 เรื่อง หลักเกณฑ์และวิธีการพิจารณาแต่งตั้งบุคคลให้ดำรงตำแหน่ง ผู้ช่วย
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1742--1743
+[]\TU/TeXGyreCursor(0)/m/n/12 pdf \TU/THSarabunNew(0)/m/n/12 ประกาศ ก\TU/TeXGyr
+eTermes(0)/m/n/12 .\TU/THSarabunNew(0)/m/n/12 พ\TU/TeXGyreTermes(0)/m/n/12 .\TU
+/THSarabunNew(0)/m/n/12 อ\TU/TeXGyreTermes(0)/m/n/12 . \TU/THSarabunNew(0)/m/n/
+12 เรื่อง หลักเกณฑ์และวิธีการพิจารณาแต่งตั้งบุคคลให้ดำรงตำแหน่ง ผู้ช่วย
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1744--1745
+\TU/THSarabunNew(0)/m/n/12 สำหรับข้าราชการพลเรือนในสถาบันอุดมศึกษา และพนักงานมห
+าวิทยาลัย มหาวิทยาลัยเทคโนโลยีราช
+ []
+
 No file sphinx.ind.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1760.
-[47]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1760.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1750.
+[51]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1750.
  (sphinx.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1760.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1760.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1750.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1750.
 
 Package rerunfilecheck Info: File `sphinx.out' has not changed.
-(rerunfilecheck)             Checksum: 36CB304672AB246D80432EB6ACEF5BED.
+(rerunfilecheck)             Checksum: 9CAEF94A4502AA5514611DB955FDC6AD.
  ) 
 Here is how much of TeX's memory you used:
- 28508 strings out of 427796
- 526069 string characters out of 3146288
- 673811 words of memory out of 3000000
- 32138 multiletter control sequences out of 15000+200000
+ 28540 strings out of 427796
+ 526904 string characters out of 3146288
+ 674721 words of memory out of 3000000
+ 32161 multiletter control sequences out of 15000+200000
  544268 words of font info for 132 fonts, out of 3000000 for 9000
  1329 hyphenation exceptions out of 8191
  53i,12n,118p,993b,2154s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on sphinx.pdf (51 pages).
+Output written on sphinx.pdf (55 pages).

@@ -18,12 +18,18 @@
 * เอกสารประกอบทั้งหมด
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: สารบัญ
 
    howtosubmit
    submission_part1
-   submission_part2
+   workload_rubric
+   glossary
+   faq
+   official_documents
+
+
+.. note:
    1teaching
    2research
    3service
@@ -31,6 +37,3 @@
    5etc
    6academicposition
    7executive
-   glossary
-   faq
-   official_documents
