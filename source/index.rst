@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 .. note::
-   อัพเดทล่าสุด: 29 เมษายน 2021
+   อัพเดทล่าสุด: 30 เมษายน 2021
 
 ภาระงานบุคลากรสายวิชาการ 
 ###############################
@@ -25,7 +25,6 @@
    submission_part1
    workload_rubric
    glossary
-   faq
    official_documents
 
 
@@ -37,3 +36,4 @@
    5etc
    6academicposition
    7executive
+   faq
