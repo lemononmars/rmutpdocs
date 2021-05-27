@@ -17,7 +17,7 @@
 \contentsline {subsubsection}{ระดับความสำเร็จในการจัดทำงานวิชาการอื่น}{10}{subsubsection*.5}
 \contentsline {subsection}{\numberline {.2.3}3. ภาระงานบริการวิชาการ}{11}{subsection.2.2.3}
 \contentsline {subsection}{\numberline {.2.4}4. งานทำนุบำรุงศิลปวัฒนธรรม}{11}{subsection.2.2.4}
-\contentsline {subsection}{\numberline {.2.5}5. งานอื่น ๆ}{12}{subsection.2.2.5}
+\contentsline {subsection}{\numberline {.2.5}5. งานอื่น ๆ}{11}{subsection.2.2.5}
 \contentsline {chapter}{\numberline {}หลักเกณฑ์และวิธีการคำนวณภาระงานขั้นต่ำ}{13}{chapter.3}
 \contentsline {section}{\numberline {.1}1. ภาระงานสอน}{13}{section.3.1}
 \contentsline {subsection}{\numberline {.1.1}1.1 งานสอนนักศึกษาในระดับปริญญาตรี}{13}{subsection.3.1.1}

@@ -23,12 +23,13 @@
 
    howtosubmit
    submission_part1
-   หลักเกณฑ์และวิธีการ คำนวณภาระงานขั้นต่ำ <workload_rubric>
+   workload_rubric
    glossary
    official_documents
 
 
 .. note:
+   Test title <filename>
    1teaching
    2research
    3service
