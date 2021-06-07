@@ -19,22 +19,31 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: สารบัญ
+   :caption: สายวิชาการ
 
-   howtosubmit
-   submission_part1
-   workload_rubric
-   glossary
-   official_documents
+   /academic/howtosubmit
+   /academic/submission_part1
+   /academic/workload_rubric
+   /academic/glossary
+   /academic/official_documents
 
+ภาระงานบุคลากรสายสนับสนุน
+###############################
+คณะวิทยาศาสตร์และเทคโนโลยี มหาวิทยาลัยเทคโนโลยีราชมงคลพระนคร
 
-.. note:
-   Test title <filename>
-   1teaching
-   2research
-   3service
-   4culture
-   5etc
-   6academicposition
-   7executive
-   faq
+เอกสารและเว็บไซต์นี้ จัดทำขึ้นเพื่อรวบรวมข้อมูลที่สำคัญทั้งหมดในการประเมินผลสัมฤทธิ์ของพนักงานมหาวิทยาลัย โดยประกอบเป็น 4 ส่วนหลักด้วยกัน ได้แก่
+
+* ขั้นตอนการส่งหลักฐาน
+* การคำนวณภาระงาน
+* คำจำกัดความ
+* เอกสารประกอบทั้งหมด
+
+.. toctree::
+   :maxdepth: 2
+   :caption: สายสนับสนุน
+
+   /support/howtosubmit
+   /support/submission_part1
+   /support/workload_rubric
+   /support/glossary
+   /support/official_documents

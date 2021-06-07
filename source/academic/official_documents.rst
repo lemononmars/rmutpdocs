@@ -1,4 +1,4 @@
-.. _official-documents:
+.. _official-documents-academic:
 
 เอกสารประกอบ
 ==============
