@@ -24,7 +24,7 @@
    /academic/howtosubmit
    /academic/submission_part1
    /academic/workload_rubric
-   /academic/glossary
+   /glossary
    /academic/official_documents
 
 ภาระงานบุคลากรสายสนับสนุน
