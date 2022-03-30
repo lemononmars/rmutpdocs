@@ -1,4 +1,5 @@
 {
     "editor.tabSize": 3,
-    "restructuredtext.confPath": "${workspaceFolder}\\source"
+    "restructuredtext.confPath": "${workspaceFolder}\\source",
+    "esbonio.sphinx.confDir": "${workspaceFolder}\\source"
 }
