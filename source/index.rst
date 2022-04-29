@@ -3,6 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+
+.. ล่าสุด 18 เมษายน
 .. note::
    อัพเดทล่าสุด: 31 ตุลาคม 2021 (อ่าน :download:`pdf<academic/files/หลักเกณฑ์เพื่อใช้เลื่อนเงินเดือน เลื่อนค่าตอบแทน สายวิชาการ รอบ 1 เม.ย. 65.pdf>`)
 
@@ -24,7 +26,7 @@
    /academic/howtosubmit
    /academic/submission_part1
    /academic/workload_rubric
-   /glossary
+   /academic/glossary
    /academic/official_documents
 
 ภาระงานบุคลากรสายสนับสนุน
