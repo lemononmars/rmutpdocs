@@ -13,8 +13,8 @@ author = 'คณะวิทยาศาสตร์และเทคโนโ�
 
 # -- General configuration ---------------------------------------------------
 
-extensions = ['recommonmark',
-              'sphinx_rtd_theme']
+extensions = ['sphinx_rtd_theme']
+# 'recommonmark' missing?
 # , 'sphinx_togglebutton' to be added back later.....
 
 templates_path = ['_templates']
