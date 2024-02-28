@@ -13,11 +13,8 @@ author = 'คณะวิทยาศาสตร์และเทคโนโ�
 
 # -- General configuration ---------------------------------------------------
 
-# Add any Sphinx extension module names here, as strings. They can be
-# extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
-# ones.
-# import sphinx_rtd_theme
-# extensions = ['recommonmark','sphinx_rtd_theme']
+extensions = ['recommonmark',
+              'sphinx_rtd_theme']
 # , 'sphinx_togglebutton' to be added back later.....
 
 templates_path = ['_templates']
@@ -27,9 +24,6 @@ exclude_patterns = []
 
 # -- Options for HTML output -------------------------------------------------
 
-# The theme to use for HTML and HTML Help pages.  See the documentation for
-# a list of builtin themes.
-#
 html_theme = "sphinx_rtd_theme"
 html_static_path = ['_static']
 
