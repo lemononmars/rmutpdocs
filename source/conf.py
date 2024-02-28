@@ -16,7 +16,7 @@ author = 'คณะวิทยาศาสตร์และเทคโนโ�
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-import sphinx_rtd_theme
+# import sphinx_rtd_theme
 extensions = ['recommonmark','sphinx_rtd_theme']
 # , 'sphinx_togglebutton' to be added back later.....
 
