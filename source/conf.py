@@ -14,7 +14,6 @@ author = 'คณะวิทยาศาสตร์และเทคโนโ�
 # -- General configuration ---------------------------------------------------
 
 extensions = ['sphinx_rtd_theme']
-# 'recommonmark' missing?
 # , 'sphinx_togglebutton' to be added back later.....
 
 templates_path = ['_templates']
