@@ -20,6 +20,3 @@
 
 .. image:: images/submission_guideline6.png
    :alt: ภาพที่ 6
-
-.. image:: images/submission_guideline7.png
-   :alt: ภาพที่ 7
