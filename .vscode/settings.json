@@ -1,4 +1,9 @@
 {
     "editor.tabSize": 3,
-    "esbonio.sphinx.confDir": "${workspaceFolder}\\source"
+    "esbonio.sphinx.confDir": "${workspaceFolder}/source",
+    "esbonio.sphinx.srcDir": "${workspaceFolder}/source",
+    "esbonio.sphinx.buildDir": "${workspaceFolder}/_build/html",
+    "restructuredtext.preview.engine": "sphinx",
+    "restructuredtext.preview.sphinx.confPath": "${workspaceFolder}/source",
+    "restructuredtext.preview.sphinx.buildPath": "${workspaceFolder}/_build"
 }

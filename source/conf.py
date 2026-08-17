@@ -18,7 +18,7 @@ extensions = ['sphinx_rtd_theme']
 
 templates_path = ['_templates']
 language = 'th'
-exclude_patterns = []
+exclude_patterns = ['academic/_workload_rubric/*']
 
 
 # -- Options for HTML output -------------------------------------------------
